@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RPG_V1",
+			"Path": "C:\\0_Coding\\Unreal Projects\\RPG_V1\\Source\\RPG_V1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RPG_V1Editor",
+			"Path": "C:\\0_Coding\\Unreal Projects\\RPG_V1\\Source\\RPG_V1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

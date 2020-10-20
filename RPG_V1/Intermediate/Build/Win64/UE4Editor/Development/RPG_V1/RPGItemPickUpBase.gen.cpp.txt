@@ -1,0 +1,10 @@
+C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\UE4Editor\Development\RPG_V1\Definitions.RPG_V1.h
+C:\0_Coding\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\0_Coding\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\0_Coding\Unreal Projects\RPG_V1\Source\RPG_V1/Public/Items/RPGItemPickUpBase.h
+C:\0_Coding\Unreal Projects\RPG_V1\Source\RPG_V1\Public\Items\RPGItemBase.h
+C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\UE4Editor\Inc\RPG_V1\RPGItemBase.generated.h
+C:\0_Coding\UE_4.25\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\0_Coding\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\0_Coding\UE_4.25\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
+C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\UE4Editor\Inc\RPG_V1\RPGItemPickUpBase.generated.h

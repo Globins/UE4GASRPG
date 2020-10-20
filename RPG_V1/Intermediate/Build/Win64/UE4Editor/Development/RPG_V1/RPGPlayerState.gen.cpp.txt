@@ -1,0 +1,31 @@
+C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\UE4Editor\Development\RPG_V1\Definitions.RPG_V1.h
+C:\0_Coding\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\0_Coding\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\0_Coding\Unreal Projects\RPG_V1\Source\RPG_V1/Public/Player/RPGPlayerState.h
+C:\0_Coding\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerState.h
+C:\0_Coding\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerState.generated.h
+C:\0_Coding\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AbilitySystemInterface.h
+C:\0_Coding\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AbilitySystemInterface.generated.h
+C:\0_Coding\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\GameplayEffectTypes.h
+C:\0_Coding\UE_4.25\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\0_Coding\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\0_Coding\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AttributeSet.h
+C:\0_Coding\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/CurveTable.h
+C:\0_Coding\UE_4.25\Engine\Source\Runtime\Engine\Classes\Curves/SimpleCurve.h
+C:\0_Coding\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SimpleCurve.generated.h
+C:\0_Coding\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveTable.generated.h
+C:\0_Coding\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+C:\0_Coding\UE_4.25\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+C:\0_Coding\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+C:\0_Coding\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AttributeSet.generated.h
+C:\0_Coding\UE_4.25\Engine\Source\Runtime\Engine\Classes\PhysicalMaterials/PhysicalMaterial.h
+C:\0_Coding\UE_4.25\Engine\Source\Runtime\Engine\Classes\Vehicles/TireType.h
+C:\0_Coding\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TireType.generated.h
+C:\0_Coding\UE_4.25\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsSettingsEnums.h
+C:\0_Coding\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicsSettingsEnums.generated.h
+C:\0_Coding\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicalMaterial.generated.h
+C:\0_Coding\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AbilitySystemLog.h
+C:\0_Coding\UE_4.25\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLogger.h
+C:\0_Coding\UE_4.25\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerTypes.h
+C:\0_Coding\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayEffectTypes.generated.h
+C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\UE4Editor\Inc\RPG_V1\RPGPlayerState.generated.h

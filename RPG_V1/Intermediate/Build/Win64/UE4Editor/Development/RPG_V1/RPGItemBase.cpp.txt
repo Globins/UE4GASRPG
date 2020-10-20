@@ -1,0 +1,3 @@
+C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\UE4Editor\Development\RPG_V1\Definitions.RPG_V1.h
+C:\0_Coding\Unreal Projects\RPG_V1\Source\RPG_V1\Public\Items\RPGItemBase.h
+C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\UE4Editor\Inc\RPG_V1\RPGItemBase.generated.h

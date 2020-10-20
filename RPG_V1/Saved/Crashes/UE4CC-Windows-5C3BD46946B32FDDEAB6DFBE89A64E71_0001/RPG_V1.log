@@ -1,0 +1,1113 @@
+﻿Log file open, 08/11/20 10:45:11
+LogInit: Display: Running engine for game: RPG_V1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.258593
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13594126
+LogInit: Engine Version: 4.25.1-13594126+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun  2 2020 02:10:36
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/0_Coding/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.08.11-17.45.12:152][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.08.11-17.45.12:152][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.08.11-17.45.12:152][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Engine.ini]
+[2020.08.11-17.45.12:152][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.11-17.45.12:152][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Engine.ini]
+[2020.08.11-17.45.12:152][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Engine.ini]
+[2020.08.11-17.45.12:152][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.11-17.45.12:152][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.11-17.45.12:152][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.11-17.45.12:152][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.11-17.45.12:152][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.11-17.45.12:152][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.11-17.45.12:152][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.11-17.45.12:152][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.11-17.45.12:152][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.11-17.45.12:152][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.11-17.45.12:152][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.11-17.45.12:152][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.11-17.45.12:152][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.11-17.45.12:152][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.08.11-17.45.12:152][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Engine.ini]
+[2020.08.11-17.45.12:152][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.11-17.45.12:153][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.11-17.45.12:153][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.11-17.45.12:153][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.11-17.45.12:153][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.11-17.45.12:153][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.11-17.45.12:153][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.08.11-17.45.12:153][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.11-17.45.12:153][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.11-17.45.12:153][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.11-17.45.12:153][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.11-17.45.12:153][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.11-17.45.12:153][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.11-17.45.12:153][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Engine.ini]
+[2020.08.11-17.45.12:153][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Engine.ini]
+[2020.08.11-17.45.12:157][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.11-17.45.12:157][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.11-17.45.12:157][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.11-17.45.12:157][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.11-17.45.12:157][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.11-17.45.12:157][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.11-17.45.12:157][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.11-17.45.12:158][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.11-17.45.12:159][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.11-17.45.12:159][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.11-17.45.12:159][  0]LogHAL: Display: Platform has ~ 24 GB [25682313216 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.11-17.45.12:159][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.11-17.45.12:159][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.11-17.45.12:159][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.11-17.45.12:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.11-17.45.12:161][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.11-17.45.12:161][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.11-17.45.12:161][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.11-17.45.12:161][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.11-17.45.12:161][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.11-17.45.12:161][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.11-17.45.12:161][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.11-17.45.12:161][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.11-17.45.12:161][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.11-17.45.12:161][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.11-17.45.12:161][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.11-17.45.12:161][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.11-17.45.12:161][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.11-17.45.12:161][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.11-17.45.12:161][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.11-17.45.12:161][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.11-17.45.12:161][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.11-17.45.12:161][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.11-17.45.12:161][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.11-17.45.12:161][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.11-17.45.12:161][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.08.11-17.45.12:161][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Engine.ini]
+[2020.08.11-17.45.12:161][  0]LogInit: Computer: MSI
+[2020.08.11-17.45.12:161][  0]LogInit: User: gordonL
+[2020.08.11-17.45.12:161][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.08.11-17.45.12:161][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.11-17.45.12:161][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2020.08.11-17.45.12:162][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.11-17.45.12:162][  0]LogMemory: Process Physical Memory: 114.67 MB used, 114.68 MB peak
+[2020.08.11-17.45.12:162][  0]LogMemory: Process Virtual Memory: 97.57 MB used, 97.57 MB peak
+[2020.08.11-17.45.12:162][  0]LogMemory: Physical Memory: 5866.49 MB used,  18626.07 MB free, 24492.56 MB total
+[2020.08.11-17.45.12:162][  0]LogMemory: Virtual Memory: 5129.84 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2020.08.11-17.45.12:167][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.11-17.45.12:202][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.08.11-17.45.12:203][  0]LogInit: Using OS detected language (en-US).
+[2020.08.11-17.45.12:203][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.11-17.45.12:213][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.11-17.45.12:456][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.11-17.45.12:491][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.11-17.45.12:491][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.11-17.45.12:680][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.11-17.45.12:680][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.08.11-17.45.12:680][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.08.11-17.45.12:680][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.11-17.45.12:750][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.08.11-17.45.12:750][  0]LogD3D11RHI:       1979/0/12246 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.08.11-17.45.12:765][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.08.11-17.45.12:765][  0]LogD3D11RHI:       128/0/12246 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.08.11-17.45.12:768][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.11-17.45.12:768][  0]LogD3D11RHI:       0/0/12246 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.11-17.45.12:768][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.11-17.45.12:805][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.11-17.45.12:805][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2020.08.11-17.45.12:805][  0]LogWindows: EnumDisplayDevices:
+[2020.08.11-17.45.12:806][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.08.11-17.45.12:806][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2020.08.11-17.45.12:806][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.08.11-17.45.12:807][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.08.11-17.45.12:807][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.08.11-17.45.12:807][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.08.11-17.45.12:807][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.08.11-17.45.12:807][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2020.08.11-17.45.12:863][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.08.11-17.45.12:869][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.08.11-17.45.12:869][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.11-17.45.12:869][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.08.11-17.45.12:887][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.08.11-17.45.13:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.08.11-17.45.13:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.08.11-17.45.13:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.08.11-17.45.13:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.08.11-17.45.13:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.08.11-17.45.13:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.08.11-17.45.13:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.08.11-17.45.13:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.08.11-17.45.13:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.08.11-17.45.13:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.08.11-17.45.13:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.08.11-17.45.13:276][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.08.11-17.45.13:276][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.08.11-17.45.13:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.08.11-17.45.13:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.08.11-17.45.13:305][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.08.11-17.45.13:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.08.11-17.45.13:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.08.11-17.45.13:335][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.08.11-17.45.13:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.08.11-17.45.13:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.08.11-17.45.13:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.08.11-17.45.13:390][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.08.11-17.45.13:390][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.08.11-17.45.13:400][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.08.11-17.45.13:410][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.08.11-17.45.13:420][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.08.11-17.45.13:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.08.11-17.45.13:430][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.11-17.45.13:438][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.11-17.45.13:501][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (../../../../Unreal Projects/RPG_V1/Intermediate/Shaders/WorkingDirectory/704/).
+[2020.08.11-17.45.13:501][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mlobi/AppData/Local/Temp/UnrealShaderWorkingDir/4DCB83E947E986D503A89DA8E8B3CFD0/'.
+[2020.08.11-17.45.13:502][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.08.11-17.45.13:502][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.08.11-17.45.13:502][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.11-17.45.14:346][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.11-17.45.14:408][  0]LogDerivedDataCache: Loaded boot cache 0.06s 94MB C:/Users/mlobi/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.08.11-17.45.14:408][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mlobi/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.08.11-17.45.14:410][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Unreal Projects/RPG_V1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.11-17.45.14:410][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.11-17.45.14:410][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Unreal Projects/RPG_V1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.11-17.45.14:410][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.11-17.45.14:422][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.11-17.45.14:422][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.11-17.45.14:422][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.08.11-17.45.14:423][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mlobi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.11-17.45.14:423][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.08.11-17.45.14:423][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.08.11-17.45.14:478][  0]LogSlate: Using FreeType 2.10.0
+[2020.08.11-17.45.14:479][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.11-17.45.14:506][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2020.08.11-17.45.14:751][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.11-17.45.14:870][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.11-17.45.14:870][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.08.11-17.45.14:870][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.08.11-17.45.14:870][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.08.11-17.45.14:870][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.08.11-17.45.14:887][  0]LogNetVersion: RPG_V1 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 900642917)
+[2020.08.11-17.45.15:366][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002626E32E180), frame # 0
+[2020.08.11-17.45.15:366][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002627165FC40), frame # 0
+[2020.08.11-17.45.15:368][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000262716C9E00), frame # 0
+[2020.08.11-17.45.15:443][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.069178 seconds
+[2020.08.11-17.45.15:449][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.08.11-17.45.15:449][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.08.11-17.45.15:449][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.11-17.45.15:776][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.11-17.45.15:780][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.11-17.45.15:820][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.08.11-17.45.15:866][  0]LogSteamShared: Display: Loading Steam SDK 1.47
+[2020.08.11-17.45.15:870][  0]LogSteamShared: Steam SDK Loaded!
+[2020.08.11-17.45.16:409][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.511 s
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: 
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/GameplayTags/Private/GameplayTagsManager.cpp] [Line: 1615]
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: Requested Tag Effect.RemoveOnDeath was not found. Check tag data table.
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: Stack: 
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff92650396b UE4Editor-GameplayTags.dll!UnknownFunction []
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9264e69ee UE4Editor-GameplayTags.dll!UnknownFunction []
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9264e662b UE4Editor-GameplayTags.dll!UnknownFunction []
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8fd7984b1 UE4Editor-RPG_V1-0039.dll!ARPGCharacterBase::ARPGCharacterBase() [C:\0_Coding\Unreal Projects\RPG_V1\Source\RPG_V1\Private\Characters\RPGCharacterBase.cpp:27]
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff924c3c223 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff924ee8461 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff924ec5bcf UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff924de43b5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff921c6987a UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff921c89a00 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff963a6b433 UE4Editor-Projects.dll!UnknownFunction []
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff963a6b70d UE4Editor-Projects.dll!UnknownFunction []
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a8fa92 UE4Editor.exe!UnknownFunction []
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a926f5 UE4Editor.exe!UnknownFunction []
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a8b7ec UE4Editor.exe!UnknownFunction []
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a8bb5a UE4Editor.exe!UnknownFunction []
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a9e31d UE4Editor.exe!UnknownFunction []
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7a2aa145a UE4Editor.exe!UnknownFunction []
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff972dc7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ff973cece51 ntdll.dll!UnknownFunction []
+[2020.08.11-17.45.16:409][  0]LogOutputDevice: Error: 
+[2020.08.11-17.45.16:418][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2020.08.11-17.45.17:427][  0]LogStats:                    SendNewReport -  1.008 s
+[2020.08.11-17.45.17:427][  0]LogStats:             FDebug::EnsureFailed -  1.529 s
+[2020.08.11-17.45.17:443][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2020.08.11-17.45.17:443][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2020.08.11-17.45.17:443][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2020.08.11-17.45.17:480][  0]SourceControl: Source control is disabled
+[2020.08.11-17.45.17:480][  0]SourceControl: Source control is disabled
+[2020.08.11-17.45.17:483][  0]SourceControl: Source control is disabled
+[2020.08.11-17.45.17:486][  0]SourceControl: Source control is disabled
+[2020.08.11-17.45.17:494][  0]SourceControl: Source control is disabled
+[2020.08.11-17.45.17:751][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.11-17.45.17:771][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.11-17.45.17:771][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.11-17.45.17:824][  0]LogOcInput: OculusInput pre-init called
+[2020.08.11-17.45.17:835][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.08.11-17.45.17:835][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.08.11-17.45.17:903][  0]LogEngine: Initializing Engine...
+[2020.08.11-17.45.17:906][  0]LogAbilitySystem: Warning: No GameplayCueNotifyPaths were specified in DefaultGame.ini under [/Script/GameplayAbilities.AbilitySystemGlobals]. Falling back to using all of /Game/. This may be slow on large projects. Consider specifying which paths are to be searched.
+[2020.08.11-17.45.17:916][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.11-17.45.17:916][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.08.11-17.45.18:059][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.11-17.45.18:066][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.11-17.45.18:066][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000262781A3C00), frame # 0
+[2020.08.11-17.45.18:066][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002627819FB00), frame # 0
+[2020.08.11-17.45.18:088][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.11-17.45.18:088][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.11-17.45.18:088][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.11-17.45.18:088][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.11-17.45.18:088][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.11-17.45.18:088][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.11-17.45.18:088][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.11-17.45.18:089][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.11-17.45.18:090][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.11-17.45.18:090][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.11-17.45.18:106][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.11-17.45.18:107][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.08.11-17.45.18:177][  0]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.08.11-17.45.18:179][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.11-17.45.18:183][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.11-17.45.18:183][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.11-17.45.18:185][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.11-17.45.18:186][  0]LogInit: FAudioDevice initialized.
+[2020.08.11-17.45.18:186][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.11-17.45.18:266][  0]LogDerivedDataCache: Saved boot cache 0.08s 81MB C:/Users/mlobi/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.08.11-17.45.18:271][  0]LogInit: Texture streaming: Enabled
+[2020.08.11-17.45.18:287][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.11-17.45.18:287][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.08.11-17.45.18:289][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.08.11-17.45.18:353][  0]LogInit: Transaction tracking system initialized
+[2020.08.11-17.45.18:376][  0]BlueprintLog: New page: Editor Load
+[2020.08.11-17.45.18:446][  0]LocalizationService: Localization service is disabled
+[2020.08.11-17.45.18:617][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.11-17.45.18:617][  0]LogCook: Display: Mobile HDR setting 1
+[2020.08.11-17.45.18:628][  0]LogFileCache: Scanning file cache for directory 'C:/0_Coding/Unreal Projects/RPG_V1/Content/' took 0.01s
+[2020.08.11-17.45.18:628][  0]LogStats: FGameplayAbilitiesEditorModule::GameplayTagTreeChanged -  0.000 s
+[2020.08.11-17.45.18:991][  0]LogStats: UGameplayCueManager::InitializeEditorObjectLibrary -  0.005 s
+[2020.08.11-17.45.19:015][  0]SourceControl: Source control is disabled
+[2020.08.11-17.45.19:015][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.937
+[2020.08.11-17.45.19:016][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.11-17.45.19:016][  0]LightingResults: New page: Lighting Build
+[2020.08.11-17.45.19:017][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.11-17.45.19:017][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.11-17.45.19:017][  0]MapCheck: New page: Map Check
+[2020.08.11-17.45.19:017][  0]LightingResults: New page: Lighting Build
+[2020.08.11-17.45.19:029][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000262781A3C00), frame # 0
+[2020.08.11-17.45.19:029][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002627819FB00), frame # 0
+[2020.08.11-17.45.19:030][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.08.11-17.45.19:103][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.11-17.45.19:103][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000262040C4A00), frame # 0
+[2020.08.11-17.45.19:103][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000262036311C0), frame # 0
+[2020.08.11-17.45.19:107][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.11-17.45.19:118][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.08.11-17.45.19:118][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.11-17.45.19:118][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.189ms to complete.
+[2020.08.11-17.45.19:118][  0]LogFileHelpers: Loading map 'Template_Default' took 0.103
+[2020.08.11-17.45.19:124][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.045
+[2020.08.11-17.45.19:318][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.11-17.45.19:328][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.11-17.45.19:336][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.11-17.45.19:344][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.11-17.45.19:361][  0]LogCollectionManager: Loaded 0 collections in 0.002240 seconds
+[2020.08.11-17.45.19:392][  0]LogFileCache: Scanning file cache for directory 'C:/0_Coding/Unreal Projects/RPG_V1/Saved/Collections/' took 0.00s
+[2020.08.11-17.45.19:392][  0]LogFileCache: Scanning file cache for directory 'C:/0_Coding/Unreal Projects/RPG_V1/Content/Developers/gordonL/Collections/' took 0.00s
+[2020.08.11-17.45.19:392][  0]LogFileCache: Scanning file cache for directory 'C:/0_Coding/Unreal Projects/RPG_V1/Content/Collections/' took 0.00s
+[2020.08.11-17.45.19:392][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 3524 classes and 839 folders.
+[2020.08.11-17.45.19:398][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.08.11-17.45.19:886][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.08.11-17.45.19:890][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 2 classes and 0 folders.
+[2020.08.11-17.45.20:074][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.11-17.45.20:077][  0]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.11-17.45.20:089][  0]LogSlate: Took 0.006526 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.11-17.45.20:255][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2020.08.11-17.45.20:380][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.08.11-17.45.20:380][  0]LogLoad: (Engine Initialization) Total time: 11.30 seconds
+[2020.08.11-17.45.20:380][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.11-17.45.20:432][  0]LogAssetRegistry: Asset discovery search completed in 5.9259 seconds
+[2020.08.11-17.45.20:435][  0]LogStats: UGameplayCueManager::InitializeEditorObjectLibrary -  0.003 s
+[2020.08.11-17.45.20:441][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.08.11-17.45.20:442][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.11-17.46.12:288][160]LogSlate: Took 0.006648 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.11-17.46.15:247][330]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.11-17.46.15:290][330]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/RPG_V1.RPG_V1GameModeBase
+[2020.08.11-19.31.39:944][760]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.11-19.43.00:027][188]LogHotReload: New module detected: UE4Editor-RPG_V1-0040.dll
+[2020.08.11-19.43.01:371][193]LogHotReload: Starting Hot-Reload from IDE
+[2020.08.11-19.43.01:486][193]LogClass: Could not find existing class RPGAttributeSetBase in package /Script/RPG_V1 for HotReload, assuming new class
+[2020.08.11-19.43.01:487][193]LogClass: Function OnRep_Armor is new.
+[2020.08.11-19.43.01:487][193]LogClass: Function OnRep_AttackSpeed is new.
+[2020.08.11-19.43.01:487][193]LogClass: Function OnRep_Gold is new.
+[2020.08.11-19.43.01:487][193]LogClass: Function OnRep_GoldBounty is new.
+[2020.08.11-19.43.01:487][193]LogClass: Function OnRep_Health is new.
+[2020.08.11-19.43.01:487][193]LogClass: Function OnRep_HealthRegenRate is new.
+[2020.08.11-19.43.01:487][193]LogClass: Function OnRep_Mana is new.
+[2020.08.11-19.43.01:487][193]LogClass: Function OnRep_ManaRegenRate is new.
+[2020.08.11-19.43.01:487][193]LogClass: Function OnRep_MaxHealth is new.
+[2020.08.11-19.43.01:487][193]LogClass: Function OnRep_MaxMana is new.
+[2020.08.11-19.43.01:487][193]LogClass: Function OnRep_MaxShield is new.
+[2020.08.11-19.43.01:487][193]LogClass: Function OnRep_MoveSpeed is new.
+[2020.08.11-19.43.01:487][193]LogClass: Function OnRep_Shield is new.
+[2020.08.11-19.43.01:487][193]LogClass: Function OnRep_ShieldRegenRate is new.
+[2020.08.11-19.43.01:499][193]LogHotReload: Re-instancing RPGAttributeSetBase after hot-reload.
+[2020.08.11-19.43.01:521][193]LogContentBrowser: Native class hierarchy updated for 'RPG_V1' in 0.0016 seconds. Added 10 classes and 7 folders.
+[2020.08.11-19.43.01:523][193]Display: HotReload successful (12 functions remapped  0 scriptstructs remapped)
+[2020.08.11-19.43.01:621][193]LogContentBrowser: Native class hierarchy populated in 0.0147 seconds. Added 3524 classes and 839 folders.
+[2020.08.11-19.43.01:634][193]Display: HotReload took  0.3s.
+[2020.08.11-19.44.56:355][536]LogHotReload: New module detected: UE4Editor-RPG_V1-0041.dll
+[2020.08.11-19.44.57:047][539]LogHotReload: Starting Hot-Reload from IDE
+[2020.08.11-19.44.57:109][539]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.08.11-19.44.57:621][539]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.511 s
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: === Handled ensure: ===
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: 
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/GameplayTags/Private/GameplayTagsManager.cpp] [Line: 1615]
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: Requested Tag Effect.HitReact.Front was not found. Check tag data table.
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: Stack: 
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff92650396b UE4Editor-GameplayTags.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff9264e69ee UE4Editor-GameplayTags.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff9264e662b UE4Editor-GameplayTags.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff8eeaa3120 UE4Editor-RPG_V1-0041.dll!URPGAttributeSetBase::URPGAttributeSetBase() [C:\0_Coding\Unreal Projects\RPG_V1\Source\RPG_V1\Private\Characters\Abilities\AttributeSets\RPGAttributeSetBase.cpp:13]
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9c44be UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9b3d4e UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9ba995 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9c6b33 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9c6e01 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9bf836 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff924b5ecfd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff924ee6849 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff924ec5bd6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff924de43b5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff921c6987a UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff921c89a00 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff921c88b18 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9bb9b2 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9bb708 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9cc3e1 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff9219ed0a9 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a7a213 UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a8ba7c UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a8bb5a UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a9e31d UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2aa145a UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff972dc7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: [Callstack] 0x00007ff973cece51 ntdll.dll!UnknownFunction []
+[2020.08.11-19.44.57:621][539]LogOutputDevice: Error: 
+[2020.08.11-19.44.57:629][539]LogStats:                SubmitErrorReport -  0.000 s
+[2020.08.11-19.44.58:132][539]LogStats:                    SendNewReport -  0.503 s
+[2020.08.11-19.44.58:132][539]LogStats:             FDebug::EnsureFailed -  1.022 s
+[2020.08.11-19.44.58:132][539]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.08.11-19.44.58:134][539]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.002 s
+[2020.08.11-19.44.58:134][539]LogOutputDevice: Error: === Handled ensure: ===
+[2020.08.11-19.44.58:134][539]LogOutputDevice: Error: 
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/GameplayTags/Private/GameplayTagsManager.cpp] [Line: 1615]
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: Requested Tag Effect.HitReact.Back was not found. Check tag data table.
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: Stack: 
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff92650396b UE4Editor-GameplayTags.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff9264e69ee UE4Editor-GameplayTags.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff9264e662b UE4Editor-GameplayTags.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff8eeaa315e UE4Editor-RPG_V1-0041.dll!URPGAttributeSetBase::URPGAttributeSetBase() [C:\0_Coding\Unreal Projects\RPG_V1\Source\RPG_V1\Private\Characters\Abilities\AttributeSets\RPGAttributeSetBase.cpp:14]
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9c44be UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9b3d4e UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9ba995 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9c6b33 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9c6e01 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9bf836 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff924b5ecfd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff924ee6849 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff924ec5bd6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff924de43b5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff921c6987a UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff921c89a00 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff921c88b18 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9bb9b2 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9bb708 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9cc3e1 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff9219ed0a9 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a7a213 UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a8ba7c UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a8bb5a UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a9e31d UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2aa145a UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff972dc7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: [Callstack] 0x00007ff973cece51 ntdll.dll!UnknownFunction []
+[2020.08.11-19.44.58:135][539]LogOutputDevice: Error: 
+[2020.08.11-19.44.58:136][539]LogStats:                SubmitErrorReport -  0.000 s
+[2020.08.11-19.45.00:444][539]LogStats:                    SendNewReport -  2.309 s
+[2020.08.11-19.45.00:444][539]LogStats:             FDebug::EnsureFailed -  2.312 s
+[2020.08.11-19.45.00:444][539]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.08.11-19.45.00:447][539]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.003 s
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: === Handled ensure: ===
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: 
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/GameplayTags/Private/GameplayTagsManager.cpp] [Line: 1615]
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: Requested Tag Effect.HitReact.Right was not found. Check tag data table.
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: Stack: 
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff92650396b UE4Editor-GameplayTags.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff9264e69ee UE4Editor-GameplayTags.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff9264e662b UE4Editor-GameplayTags.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff8eeaa319c UE4Editor-RPG_V1-0041.dll!URPGAttributeSetBase::URPGAttributeSetBase() [C:\0_Coding\Unreal Projects\RPG_V1\Source\RPG_V1\Private\Characters\Abilities\AttributeSets\RPGAttributeSetBase.cpp:15]
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9c44be UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9b3d4e UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9ba995 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9c6b33 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9c6e01 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9bf836 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff924b5ecfd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff924ee6849 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff924ec5bd6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff924de43b5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff921c6987a UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff921c89a00 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff921c88b18 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9bb9b2 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9bb708 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9cc3e1 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff9219ed0a9 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a7a213 UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a8ba7c UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a8bb5a UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a9e31d UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2aa145a UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff972dc7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: [Callstack] 0x00007ff973cece51 ntdll.dll!UnknownFunction []
+[2020.08.11-19.45.00:447][539]LogOutputDevice: Error: 
+[2020.08.11-19.45.00:449][539]LogStats:                SubmitErrorReport -  0.000 s
+[2020.08.11-19.45.02:661][539]LogStats:                    SendNewReport -  2.212 s
+[2020.08.11-19.45.02:661][539]LogStats:             FDebug::EnsureFailed -  2.217 s
+[2020.08.11-19.45.02:661][539]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.08.11-19.45.02:664][539]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.003 s
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: === Handled ensure: ===
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: 
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/GameplayTags/Private/GameplayTagsManager.cpp] [Line: 1615]
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: Requested Tag Effect.HitReact.Left was not found. Check tag data table.
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: Stack: 
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff92650396b UE4Editor-GameplayTags.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff9264e69ee UE4Editor-GameplayTags.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff9264e662b UE4Editor-GameplayTags.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff8eeaa31da UE4Editor-RPG_V1-0041.dll!URPGAttributeSetBase::URPGAttributeSetBase() [C:\0_Coding\Unreal Projects\RPG_V1\Source\RPG_V1\Private\Characters\Abilities\AttributeSets\RPGAttributeSetBase.cpp:16]
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9c44be UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9b3d4e UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9ba995 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9c6b33 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9c6e01 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9bf836 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff924b5ecfd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff924ee6849 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff924ec5bd6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff924de43b5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff921c6987a UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff921c89a00 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff921c88b18 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9bb9b2 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9bb708 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9cc3e1 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff9219ed0a9 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a7a213 UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a8ba7c UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a8bb5a UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a9e31d UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff7a2aa145a UE4Editor.exe!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff972dc7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: [Callstack] 0x00007ff973cece51 ntdll.dll!UnknownFunction []
+[2020.08.11-19.45.02:664][539]LogOutputDevice: Error: 
+[2020.08.11-19.45.02:666][539]LogStats:             FDebug::EnsureFailed -  0.005 s
+[2020.08.11-19.45.02:672][539]LogContentBrowser: Native class hierarchy updated for 'RPG_V1' in 0.0008 seconds. Added 10 classes and 7 folders.
+[2020.08.11-19.45.02:674][539]Display: HotReload successful (26 functions remapped  0 scriptstructs remapped)
+[2020.08.11-19.45.02:734][539]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 3524 classes and 839 folders.
+[2020.08.11-19.45.02:743][539]Display: HotReload took  5.7s.
+[2020.08.11-19.49.19:299][285]LogHotReload: New module detected: UE4Editor-RPG_V1-0042.dll
+[2020.08.11-19.49.20:323][289]LogHotReload: Starting Hot-Reload from IDE
+[2020.08.11-19.49.20:383][289]LogContentBrowser: Native class hierarchy updated for 'RPG_V1' in 0.0009 seconds. Added 10 classes and 7 folders.
+[2020.08.11-19.49.20:385][289]Display: HotReload successful (26 functions remapped  0 scriptstructs remapped)
+[2020.08.11-19.49.20:437][289]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 3524 classes and 839 folders.
+[2020.08.11-19.49.20:444][289]Display: HotReload took  0.1s.
+[2020.08.11-19.58.47:540][982]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.11-19.58.47:540][982]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.11-19.59.39:603][136]LogHotReload: New module detected: UE4Editor-RPG_V1-0046.dll
+[2020.08.11-19.59.40:626][140]LogHotReload: Starting Hot-Reload from IDE
+[2020.08.11-19.59.40:694][140]LogContentBrowser: Native class hierarchy updated for 'RPG_V1' in 0.0007 seconds. Added 10 classes and 7 folders.
+[2020.08.11-19.59.40:696][140]Display: HotReload successful (26 functions remapped  0 scriptstructs remapped)
+[2020.08.11-19.59.40:744][140]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 3524 classes and 839 folders.
+[2020.08.11-19.59.40:751][140]Display: HotReload took  0.1s.
+[2020.08.11-20.01.13:671][416]LogTemp: Resetting audio stream to device id 
+[2020.08.11-20.01.13:709][416]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.11-20.01.13:709][416]LogAudioMixer: Display: 1: FrontRight
+[2020.08.11-20.09.49:455][420]LogTemp: Resetting audio stream to device id 
+[2020.08.11-20.09.49:608][420]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.11-20.09.49:608][420]LogAudioMixer: Display: 1: FrontRight
+[2020.08.11-20.09.50:928][425]LogHttp: Warning: 000002620FF58F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B05A17D6F-4E3C-9027-4157-F28E277234CC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=4909283144cbf57d3dd8db8a255a8b47%7Cd7e08d3df1534e96a9ae00fb7cba1e47%7C81dcc78a-da99-4e13-9852-bf22fd01fe30&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.08.11-20.09.50:928][425]LogHttp: Warning: 000002620FF58F00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.08.11-20.09.50:928][425]LogHttp: Warning: 000002620FF58F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2624c4b7f70 [can pipeline])
+[2020.08.11-20.09.50:928][425]LogHttp: Warning: 000002620FF58F00: libcurl info message cache 1 (Re-using existing connection! (#47) with host datarouter.ol.epicgames.com)
+[2020.08.11-20.09.50:928][425]LogHttp: Warning: 000002620FF58F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.86.67.197) port 443 (#47))
+[2020.08.11-20.09.50:928][425]LogHttp: Warning: 000002620FF58F00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.08.11-20.09.50:928][425]LogHttp: Warning: 000002620FF58F00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.08.11-20.09.50:928][425]LogHttp: Warning: 000002620FF58F00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.08.11-20.09.50:928][425]LogHttp: Warning: 000002620FF58F00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.08.11-20.09.50:928][425]LogHttp: Warning: 000002620FF58F00: libcurl info message cache 7 (Closing connection 47)
+[2020.08.11-20.09.51:262][426]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B05A17D6F-4E3C-9027-4157-F28E277234CC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=4909283144cbf57d3dd8db8a255a8b47%7Cd7e08d3df1534e96a9ae00fb7cba1e47%7C81dcc78a-da99-4e13-9852-bf22fd01fe30&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.08.11-22.02.23:838][681]LogHotReload: New module detected: UE4Editor-RPG_V1-0047.dll
+[2020.08.11-22.02.25:173][686]LogHotReload: Starting Hot-Reload from IDE
+[2020.08.11-22.02.25:275][686]LogClass: Could not find existing type ERPGAbilityInputID for HotReload. Assuming new
+[2020.08.11-22.02.25:277][686]LogClass: Could not find existing type ERPGHitReactDirection for HotReload. Assuming new
+[2020.08.11-22.02.25:292][686]LogContentBrowser: Native class hierarchy updated for 'RPG_V1' in 0.0020 seconds. Added 10 classes and 7 folders.
+[2020.08.11-22.02.25:294][686]Display: HotReload successful (26 functions remapped  0 scriptstructs remapped)
+[2020.08.11-22.02.25:373][686]LogContentBrowser: Native class hierarchy populated in 0.0148 seconds. Added 3524 classes and 839 folders.
+[2020.08.11-22.02.25:382][686]Display: HotReload took  0.2s.
+[2020.08.11-22.03.04:444][801]LogHotReload: New module detected: UE4Editor-RPG_V1-0048.dll
+[2020.08.11-22.03.05:468][805]LogHotReload: Starting Hot-Reload from IDE
+[2020.08.11-22.03.05:533][805]LogClass: ERPGAbilityInputID HotReload.
+[2020.08.11-22.03.05:533][805]LogClass: ERPGHitReactDirection HotReload.
+[2020.08.11-22.03.05:540][805]LogContentBrowser: Native class hierarchy updated for 'RPG_V1' in 0.0007 seconds. Added 10 classes and 7 folders.
+[2020.08.11-22.03.05:542][805]Display: HotReload successful (26 functions remapped  0 scriptstructs remapped)
+[2020.08.11-22.03.05:589][805]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 3524 classes and 839 folders.
+[2020.08.11-22.03.05:597][805]Display: HotReload took  0.1s.
+[2020.08.11-22.07.22:943][568]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.11-22.07.22:943][568]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.11-22.07.23:808][570]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.11-22.07.36:147][572]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.11-22.07.36:147][572]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.11-22.07.38:417][574]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.11-22.07.38:417][574]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.11-22.07.42:577][575]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.11-22.08.12:145][656]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.11-22.08.59:984][848]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.11-22.09.08:091][851]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.11-22.09.17:844][867]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.11-22.09.24:340][884]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.11-22.09.24:340][884]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.11-22.09.25:018][886]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.11-22.10.58:028][227]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.08.11-22.10.58:029][227]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.08.11-22.10.58:092][227]LogSlate: Took 0.014704 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.11-22.11.11:809][ 19]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.08.11-22.11.26:984][591]Candidate modules for hot reload:
+[2020.08.11-22.11.26:984][591]  RPG_V1
+[2020.08.11-22.11.26:984][591]Launching UnrealBuildTool... [C:/0_Coding/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=RPG_V1,1236 RPG_V1Editor Win64 Development -Project="C:/0_Coding/Unreal Projects/RPG_V1/RPG_V1.uproject" "C:/0_Coding/Unreal Projects/RPG_V1/RPG_V1.uproject"  -IgnoreJunk]
+[2020.08.11-22.11.46:182][591]CompilerResultsLog: New page: Compilation - Aug 11, 2020, 8:11:46 AM
+[2020.08.11-22.11.46:183][591]CompilerResultsLog: Invalidating makefile for RPG_V1Editor (source file added)
+[2020.08.11-22.11.46:183][591]CompilerResultsLog: Parsing headers for RPG_V1Editor
+[2020.08.11-22.11.46:184][591]CompilerResultsLog:   Running UnrealHeaderTool "C:\0_Coding\Unreal Projects\RPG_V1\RPG_V1.uproject" "C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\RPG_V1Editor\Development\RPG_V1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\mlobi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.08.11-22.11.46:184][591]CompilerResultsLog: Reflection code generated for RPG_V1Editor in 6.7137469 seconds
+[2020.08.11-22.11.46:184][591]CompilerResultsLog: Building RPG_V1Editor...
+[2020.08.11-22.11.46:184][591]CompilerResultsLog: Using Visual Studio 2019 14.27.29110 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.11-22.11.46:184][591]CompilerResultsLog: Building 8 actions with 4 processes...
+[2020.08.11-22.11.46:184][591]CompilerResultsLog:   [1/8] RPG_V1.cpp
+[2020.08.11-22.11.46:184][591]CompilerResultsLog:   [2/8] RPG_V1.gen.cpp
+[2020.08.11-22.11.46:184][591]CompilerResultsLog:   [3/8] RPG_V1.init.gen.cpp
+[2020.08.11-22.11.46:184][591]CompilerResultsLog:   [4/8] RPGGameplayAbility.cpp
+[2020.08.11-22.11.46:184][591]CompilerResultsLog:   C:\0_Coding\Unreal Projects\RPG_V1\Source\RPG_V1\Private\Characters\Abilities\RPGGameplayAbility.cpp(4): fatal error C1083: Cannot open include file: 'RPGGameplayAbility.h': No such file or directory
+[2020.08.11-22.11.46:184][591]CompilerResultsLog:   [5/8] RPGGameplayAbility.gen.cpp
+[2020.08.11-22.11.46:184][591]LogMainFrame: MainFrame: Module compiling took 19.210 seconds
+[2020.08.11-22.11.46:185][591]Warning: HotReload failed, recompile failed
+[2020.08.11-22.11.46:185][591]Warning: RebindPackages failed because compilation failed.
+[2020.08.11-22.12.24:644][591]LogSlate: Window 'Message' being destroyed
+[2020.08.11-22.12.24:647][591]Message dialog closed, result: No, title: Message, text: Successfully added class 'RPGGameplayAbility', however you must recompile the 'RPG_V1' module before it will appear in the Content Browser. Failed to automatically hot reload the 'RPG_V1' module.
+
+Would you like to open the Output Log to see more details?
+[2020.08.11-22.12.24:647][591]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.08.11-22.12.24:657][591]LogHotReload: New module detected: UE4Editor-RPG_V1-0050.dll
+[2020.08.11-22.12.24:692][592]LogHotReload: Starting Hot-Reload from IDE
+[2020.08.11-22.12.24:769][592]LogClass: Could not find existing class RPGGameplayAbility in package /Script/RPG_V1 for HotReload, assuming new class
+[2020.08.11-22.12.24:773][592]LogClass: ERPGAbilityInputID HotReload.
+[2020.08.11-22.12.24:773][592]LogClass: ERPGHitReactDirection HotReload.
+[2020.08.11-22.12.24:783][592]LogContentBrowser: Native class hierarchy updated for 'RPG_V1' in 0.0008 seconds. Added 11 classes and 7 folders.
+[2020.08.11-22.12.24:785][592]Display: HotReload successful (26 functions remapped  0 scriptstructs remapped)
+[2020.08.11-22.12.24:832][592]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 3525 classes and 839 folders.
+[2020.08.11-22.12.24:840][592]Display: HotReload took  0.1s.
+[2020.08.11-22.14.10:045][441]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.08.11-22.14.10:045][441]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.08.11-22.14.12:053][549]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.08.11-22.14.33:551][817]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.08.11-22.14.50:594][830]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.08.11-22.14.50:594][830]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.08.11-22.16.06:612][280]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.08.11-22.22.53:470][561]LogHotReload: New module detected: UE4Editor-RPG_V1-0051.dll
+[2020.08.11-22.23.41:228][703]LogHotReload: New module detected: UE4Editor-RPG_V1-0052.dll
+[2020.08.11-22.23.41:919][706]LogHotReload: Starting Hot-Reload from IDE
+[2020.08.11-22.23.42:006][706]LogClass: Could not find existing class RPGGameplayAbility in package /Script/RPG_V1 for HotReload, assuming new class
+[2020.08.11-22.23.42:008][706]LogClass: ERPGAbilityInputID HotReload.
+[2020.08.11-22.23.42:008][706]LogClass: ERPGHitReactDirection HotReload.
+[2020.08.11-22.23.42:029][706]LogHotReload: Re-instancing RPGGameplayAbility after hot-reload.
+[2020.08.11-22.23.42:143][706]LogContentBrowser: Native class hierarchy updated for 'RPG_V1' in 0.0007 seconds. Added 11 classes and 7 folders.
+[2020.08.11-22.23.42:145][706]Display: HotReload successful (26 functions remapped  0 scriptstructs remapped)
+[2020.08.11-22.23.42:198][706]LogContentBrowser: Native class hierarchy populated in 0.0117 seconds. Added 3525 classes and 839 folders.
+[2020.08.11-22.23.42:210][706]Display: HotReload took  0.3s.
+[2020.08.11-22.34.20:634][614]LogHotReload: New module detected: UE4Editor-RPG_V1-0053.dll
+[2020.08.11-22.34.21:322][617]LogHotReload: Starting Hot-Reload from IDE
+[2020.08.11-22.34.21:388][617]LogClass: ERPGAbilityInputID HotReload.
+[2020.08.11-22.34.21:388][617]LogClass: ERPGHitReactDirection HotReload.
+[2020.08.11-22.34.21:395][617]LogContentBrowser: Native class hierarchy updated for 'RPG_V1' in 0.0008 seconds. Added 11 classes and 7 folders.
+[2020.08.11-22.34.21:396][617]Display: HotReload successful (26 functions remapped  0 scriptstructs remapped)
+[2020.08.11-22.34.21:446][617]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 3525 classes and 839 folders.
+[2020.08.11-22.34.21:454][617]Display: HotReload took  0.1s.
+[2020.08.11-22.35.00:845][831]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.08.11-22.35.00:845][831]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.08.11-22.35.02:636][927]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.08.11-22.35.43:582][160]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.08.11-22.38.54:875][ 67]LogHotReload: New module detected: UE4Editor-RPG_V1-0055.dll
+[2020.08.11-22.38.55:902][ 71]LogHotReload: Starting Hot-Reload from IDE
+[2020.08.11-22.38.55:964][ 71]LogClass: ERPGAbilityInputID HotReload.
+[2020.08.11-22.38.55:964][ 71]LogClass: ERPGHitReactDirection HotReload.
+[2020.08.11-22.38.55:971][ 71]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.08.11-22.38.56:643][ 71]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.671 s
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: === Handled ensure: ===
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: 
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/GameplayTags/Private/GameplayTagsManager.cpp] [Line: 1615]
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: Requested Tag State.Debuff.Stun was not found. Check tag data table.
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: Stack: 
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff92650396b UE4Editor-GameplayTags.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff9264e69ee UE4Editor-GameplayTags.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff9264e662b UE4Editor-GameplayTags.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff923398983 UE4Editor-RPG_V1-0055.dll!URPGGameplayAbility::URPGGameplayAbility() [C:\0_Coding\Unreal Projects\RPG_V1\Source\RPG_V1\Private\Characters\Abilities\RPGGameplayAbility.cpp:15]
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9c44be UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9b3d4e UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9ba995 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9c6b33 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9c6e01 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9bf836 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff924b5ecfd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff924ee6849 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff924ec5bd6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff924de43b5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff921c6987a UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff921c89a00 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff921c88b18 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9bb9b2 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9bb708 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff8ff9cc3e1 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff9219ed0a9 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a7a213 UE4Editor.exe!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a8ba7c UE4Editor.exe!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a8bb5a UE4Editor.exe!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff7a2a9e31d UE4Editor.exe!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff7a2aa145a UE4Editor.exe!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff972dc7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: [Callstack] 0x00007ff973cece51 ntdll.dll!UnknownFunction []
+[2020.08.11-22.38.56:643][ 71]LogOutputDevice: Error: 
+[2020.08.11-22.38.56:645][ 71]LogStats:             FDebug::EnsureFailed -  0.674 s
+[2020.08.11-22.38.56:645][ 71]LogHotReload: Re-instancing RPGGameplayAbility after hot-reload.
+[2020.08.11-22.38.56:652][ 71]LogContentBrowser: Native class hierarchy updated for 'RPG_V1' in 0.0008 seconds. Added 11 classes and 7 folders.
+[2020.08.11-22.38.56:653][ 71]Display: HotReload successful (26 functions remapped  0 scriptstructs remapped)
+[2020.08.11-22.38.56:702][ 71]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 3525 classes and 839 folders.
+[2020.08.11-22.38.56:709][ 71]Display: HotReload took  0.8s.
+[2020.08.11-22.46.01:731][339]LogHotReload: New module detected: UE4Editor-RPG_V1-0058.dll
+[2020.08.11-22.46.02:419][342]LogHotReload: Starting Hot-Reload from IDE
+[2020.08.11-22.46.02:480][342]LogClass: Could not find existing class RPGAbilitySystemComponent in package /Script/RPG_V1 for HotReload, assuming new class
+[2020.08.11-22.46.02:485][342]LogClass: ERPGAbilityInputID HotReload.
+[2020.08.11-22.46.02:485][342]LogClass: ERPGHitReactDirection HotReload.
+[2020.08.11-22.46.02:488][342]LogHotReload: Re-instancing RPGAbilitySystemComponent after hot-reload.
+[2020.08.11-22.46.02:498][342]LogContentBrowser: Native class hierarchy updated for 'RPG_V1' in 0.0008 seconds. Added 11 classes and 7 folders.
+[2020.08.11-22.46.02:499][342]Display: HotReload successful (26 functions remapped  0 scriptstructs remapped)
+[2020.08.11-22.46.02:548][342]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 3525 classes and 839 folders.
+[2020.08.11-22.46.02:556][342]Display: HotReload took  0.1s.
+[2020.08.11-22.46.45:322][568]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.08.11-22.46.45:322][568]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.08.11-22.46.47:311][673]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.08.11-22.46.56:835][234]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.08.11-22.47.25:559][830]Candidate modules for hot reload:
+[2020.08.11-22.47.25:559][830]  RPG_V1
+[2020.08.11-22.47.25:559][830]Launching UnrealBuildTool... [C:/0_Coding/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=RPG_V1,5779 RPG_V1Editor Win64 Development -Project="C:/0_Coding/Unreal Projects/RPG_V1/RPG_V1.uproject" "C:/0_Coding/Unreal Projects/RPG_V1/RPG_V1.uproject"  -IgnoreJunk]
+[2020.08.11-22.47.45:906][830]CompilerResultsLog: New page: Compilation - Aug 11, 2020, 8:47:45 AM
+[2020.08.11-22.47.45:906][830]CompilerResultsLog: Invalidating makefile for RPG_V1Editor (source file added)
+[2020.08.11-22.47.45:906][830]CompilerResultsLog: Parsing headers for RPG_V1Editor
+[2020.08.11-22.47.45:906][830]CompilerResultsLog:   Running UnrealHeaderTool "C:\0_Coding\Unreal Projects\RPG_V1\RPG_V1.uproject" "C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\RPG_V1Editor\Development\RPG_V1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\mlobi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.08.11-22.47.45:906][830]CompilerResultsLog: Reflection code generated for RPG_V1Editor in 11.9254201 seconds
+[2020.08.11-22.47.45:906][830]CompilerResultsLog: Building RPG_V1Editor...
+[2020.08.11-22.47.45:906][830]CompilerResultsLog: Using Visual Studio 2019 14.27.29110 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.11-22.47.45:906][830]CompilerResultsLog: Building 6 actions with 4 processes...
+[2020.08.11-22.47.45:906][830]CompilerResultsLog:   [1/6] RPGDamageExeCalculation.cpp
+[2020.08.11-22.47.45:906][830]CompilerResultsLog:   C:\0_Coding\Unreal Projects\RPG_V1\Source\RPG_V1\Private\Characters\Abilities\RPGDamageExeCalculation.cpp(4): fatal error C1083: Cannot open include file: 'RPGDamageExeCalculation.h': No such file or directory
+[2020.08.11-22.47.45:906][830]CompilerResultsLog:   [2/6] RPG_V1.init.gen.cpp
+[2020.08.11-22.47.45:906][830]CompilerResultsLog:   [3/6] RPGDamageExeCalculation.gen.cpp
+[2020.08.11-22.47.45:906][830]LogMainFrame: MainFrame: Module compiling took 20.355 seconds
+[2020.08.11-22.47.45:906][830]Warning: HotReload failed, recompile failed
+[2020.08.11-22.47.45:906][830]Warning: RebindPackages failed because compilation failed.
+[2020.08.11-22.50.17:288][830]LogSlate: Window 'Message' being destroyed
+[2020.08.11-22.50.17:291][830]Message dialog closed, result: No, title: Message, text: Successfully added class 'RPGDamageExeCalculation', however you must recompile the 'RPG_V1' module before it will appear in the Content Browser. Failed to automatically hot reload the 'RPG_V1' module.
+
+Would you like to open the Output Log to see more details?
+[2020.08.11-22.50.17:291][830]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.08.11-22.50.33:019][893]LogHotReload: New module detected: UE4Editor-RPG_V1-0060.dll
+[2020.08.11-22.50.33:709][896]LogHotReload: Starting Hot-Reload from IDE
+[2020.08.11-22.50.33:770][896]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.08.11-22.50.33:771][896]LogWindows: Windows GetLastError: The operation completed successfully. (0)

@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RPG_V1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{122AE79A-E138-4D88-B67B-8380ED26C233}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RPG_V1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RPG_V1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{30745CCA-9FEB-408D-B7A8-2F0A6E77C150}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RPG_V1">
+      <UniqueIdentifier>{C655A46A-9DF2-4D4A-84D8-53B8EEF83F76}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RPG_V1\RPG_V1.Build.cs">
+      <Filter>Source\RPG_V1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RPG_V1\RPG_V1.cpp">
+      <Filter>Source\RPG_V1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RPG_V1\RPG_V1.h">
+      <Filter>Source\RPG_V1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RPG_V1\RPG_V1GameModeBase.cpp">
+      <Filter>Source\RPG_V1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RPG_V1\RPG_V1GameModeBase.h">
+      <Filter>Source\RPG_V1</Filter>
+    </ClInclude>
+    <Filter Include="Source\RPG_V1\Private">
+      <UniqueIdentifier>{FDD90A63-4787-4568-BC6E-514BF44E3022}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\RPGBlueprintFunctionLibrary.cpp">
+      <Filter>Source\RPG_V1\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\RPGEngineSubsystem.cpp">
+      <Filter>Source\RPG_V1\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\RPG_V1\Private\Characters">
+      <UniqueIdentifier>{07733238-8AE4-45A9-A684-4ED7136C8531}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Characters\RPGCharacterBase.cpp">
+      <Filter>Source\RPG_V1\Private\Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Characters\RPGCharacterMovementComponent.cpp">
+      <Filter>Source\RPG_V1\Private\Characters</Filter>
+    </ClCompile>
+    <Filter Include="Source\RPG_V1\Private\Characters\Abilities">
+      <UniqueIdentifier>{6F212ECA-1560-44D2-B363-5B1E85BED532}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Characters\Abilities\RPGAbilitySystemComponent.cpp">
+      <Filter>Source\RPG_V1\Private\Characters\Abilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Characters\Abilities\RPGAbilitySystemGlobals.cpp">
+      <Filter>Source\RPG_V1\Private\Characters\Abilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Characters\Abilities\RPGAsyncTaskAttributeChanged.cpp">
+      <Filter>Source\RPG_V1\Private\Characters\Abilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Characters\Abilities\RPGAsyncTaskCooldownChanged.cpp">
+      <Filter>Source\RPG_V1\Private\Characters\Abilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Characters\Abilities\RPGAsyncTaskEffectStackChanged.cpp">
+      <Filter>Source\RPG_V1\Private\Characters\Abilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Characters\Abilities\RPGDamageExeCalculation.cpp">
+      <Filter>Source\RPG_V1\Private\Characters\Abilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Characters\Abilities\RPGGameplayAbility.cpp">
+      <Filter>Source\RPG_V1\Private\Characters\Abilities</Filter>
+    </ClCompile>
+    <Filter Include="Source\RPG_V1\Private\Characters\Abilities\AbilityTasks">
+      <UniqueIdentifier>{CDAAF206-49DB-4FC0-9A62-D7BF3C316FA3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Characters\Abilities\AbilityTasks\RPGAT_PlayMontageAndWaitForEvent.cpp">
+      <Filter>Source\RPG_V1\Private\Characters\Abilities\AbilityTasks</Filter>
+    </ClCompile>
+    <Filter Include="Source\RPG_V1\Private\Characters\Abilities\AttributeSets">
+      <UniqueIdentifier>{39E2E4C2-7540-4C59-98EA-D6F3BC0BDC0F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Characters\Abilities\AttributeSets\RPGAttributeSetBase.cpp">
+      <Filter>Source\RPG_V1\Private\Characters\Abilities\AttributeSets</Filter>
+    </ClCompile>
+    <Filter Include="Source\RPG_V1\Private\Characters\Player">
+      <UniqueIdentifier>{3D586DA6-494B-415D-8389-7D458AECA7C7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Characters\Player\RPGPlayerCharacterBase.cpp">
+      <Filter>Source\RPG_V1\Private\Characters\Player</Filter>
+    </ClCompile>
+    <Filter Include="Source\RPG_V1\Private\Player">
+      <UniqueIdentifier>{EEC58A8C-66B3-4014-9621-C5F64C9B78D9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Player\RPGPlayerController.cpp">
+      <Filter>Source\RPG_V1\Private\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Player\RPGPlayerState.cpp">
+      <Filter>Source\RPG_V1\Private\Player</Filter>
+    </ClCompile>
+    <Filter Include="Source\RPG_V1\Private\UI">
+      <UniqueIdentifier>{3D6C88A9-834B-4A25-8409-A13F2E009BAD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\UI\RPGDamageTextWidgetComponent.cpp">
+      <Filter>Source\RPG_V1\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\UI\RPGFloatingStatusBarWidget.cpp">
+      <Filter>Source\RPG_V1\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\UI\RPGHUDWidget.cpp">
+      <Filter>Source\RPG_V1\Private\UI</Filter>
+    </ClCompile>
+    <Filter Include="Source\RPG_V1\Public">
+      <UniqueIdentifier>{D91F7F21-7415-4103-90FA-B5FEE9C46231}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\RPGBlueprintFunctionLibrary.h">
+      <Filter>Source\RPG_V1\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\RPGEngineSubsystem.h">
+      <Filter>Source\RPG_V1\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\RPG_V1\Public\Characters">
+      <UniqueIdentifier>{36450DD3-59B1-4320-B5CA-41D06EFBA48C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Characters\RPGCharacterBase.h">
+      <Filter>Source\RPG_V1\Public\Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Characters\RPGCharacterMovementComponent.h">
+      <Filter>Source\RPG_V1\Public\Characters</Filter>
+    </ClInclude>
+    <Filter Include="Source\RPG_V1\Public\Characters\Abilities">
+      <UniqueIdentifier>{2242F559-309C-48F2-BAAC-1A3194DA1731}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Characters\Abilities\RPGAbilitySystemComponent.h">
+      <Filter>Source\RPG_V1\Public\Characters\Abilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Characters\Abilities\RPGAbilitySystemGlobals.h">
+      <Filter>Source\RPG_V1\Public\Characters\Abilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Characters\Abilities\RPGAsyncTaskAttributeChanged.h">
+      <Filter>Source\RPG_V1\Public\Characters\Abilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Characters\Abilities\RPGAsyncTaskCooldownChanged.h">
+      <Filter>Source\RPG_V1\Public\Characters\Abilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Characters\Abilities\RPGAsyncTaskEffectStackChanged.h">
+      <Filter>Source\RPG_V1\Public\Characters\Abilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Characters\Abilities\RPGDamageExeCalculation.h">
+      <Filter>Source\RPG_V1\Public\Characters\Abilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Characters\Abilities\RPGGameplayAbility.h">
+      <Filter>Source\RPG_V1\Public\Characters\Abilities</Filter>
+    </ClInclude>
+    <Filter Include="Source\RPG_V1\Public\Characters\Abilities\AbilityTasks">
+      <UniqueIdentifier>{0E1E2924-6278-4EF5-95E8-EC2883B106A3}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Characters\Abilities\AbilityTasks\RPGAT_PlayMontageAndWaitForEvent.h">
+      <Filter>Source\RPG_V1\Public\Characters\Abilities\AbilityTasks</Filter>
+    </ClInclude>
+    <Filter Include="Source\RPG_V1\Public\Characters\Abilities\AttributeSets">
+      <UniqueIdentifier>{36FC7862-C545-4083-84FD-80DFA2E7F138}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Characters\Abilities\AttributeSets\RPGAttributeSetBase.h">
+      <Filter>Source\RPG_V1\Public\Characters\Abilities\AttributeSets</Filter>
+    </ClInclude>
+    <Filter Include="Source\RPG_V1\Public\Characters\Player">
+      <UniqueIdentifier>{557798FB-B5E3-4BB6-B6D6-B36C3D2AE7C0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Characters\Player\RPGPlayerCharacterBase.h">
+      <Filter>Source\RPG_V1\Public\Characters\Player</Filter>
+    </ClInclude>
+    <Filter Include="Source\RPG_V1\Public\Player">
+      <UniqueIdentifier>{33C5FF0D-A961-4714-B2B3-3336B20D225B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Player\RPGPlayerController.h">
+      <Filter>Source\RPG_V1\Public\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Player\RPGPlayerState.h">
+      <Filter>Source\RPG_V1\Public\Player</Filter>
+    </ClInclude>
+    <Filter Include="Source\RPG_V1\Public\UI">
+      <UniqueIdentifier>{33B74E60-C485-43A5-B2CD-242880F0AF5A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\UI\RPGDamageTextWidgetComponent.h">
+      <Filter>Source\RPG_V1\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\UI\RPGFloatingStatusBarWidget.h">
+      <Filter>Source\RPG_V1\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\UI\RPGHUDWidget.h">
+      <Filter>Source\RPG_V1\Public\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\RPG_V1\Public\Characters\NonPlayer">
+      <UniqueIdentifier>{aa37f09c-d348-4207-82bc-d49bae801c87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\RPG_V1\Private\Characters\NonPlayer">
+      <UniqueIdentifier>{b628c9a4-e052-4404-b110-41bd99ffba3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\RPG_V1\Public\AI">
+      <UniqueIdentifier>{de00c679-8da2-42c2-b9e4-2722ce061623}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\RPG_V1\Private\AI">
+      <UniqueIdentifier>{6ddda43c-21f3-4ad2-a322-71ed657c6ddc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\RPG_V1\Public\Items">
+      <UniqueIdentifier>{4e2a73d2-bdc1-4d60-be68-c240eaa16ef3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\RPG_V1\Private\Items">
+      <UniqueIdentifier>{b03f6d0e-5732-4b62-a03f-ccb93a65b049}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\RPG_V1\Public\Inventory">
+      <UniqueIdentifier>{9ab580df-c374-436a-9b71-a813e186ad4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\RPG_V1\Private\Inventory">
+      <UniqueIdentifier>{fe5710d1-0824-4fd0-aa6c-5ec1e7f4f4b7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Characters\NonPlayer\RPGNonPlayerCharacterBase.h">
+      <Filter>Source\RPG_V1\Public\Characters\NonPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\AI\RPGPlayerAIController.h">
+      <Filter>Source\RPG_V1\Public\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Items\RPGItemBase.h">
+      <Filter>Source\RPG_V1\Public\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Inventory\RPGInventoryComponent.h">
+      <Filter>Source\RPG_V1\Public\Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Items\RPGItemBaseArmor.h">
+      <Filter>Source\RPG_V1\Public\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Items\RPGItemPickUpBase.h">
+      <Filter>Source\RPG_V1\Public\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Items\RPGItemBaseConsumable.h">
+      <Filter>Source\RPG_V1\Public\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RPG_V1\Public\Inventory\RPGExternalStorageActorBase.h">
+      <Filter>Source\RPG_V1\Public\Inventory</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Characters\NonPlayer\RPGNonPlayerCharacterBase.cpp">
+      <Filter>Source\RPG_V1\Private\Characters\NonPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\AI\RPGPlayerAIController.cpp">
+      <Filter>Source\RPG_V1\Private\AI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Items\RPGItemBase.cpp">
+      <Filter>Source\RPG_V1\Private\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Inventory\RPGInventoryComponent.cpp">
+      <Filter>Source\RPG_V1\Private\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Items\RPGItemBaseArmor.cpp">
+      <Filter>Source\RPG_V1\Private\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Items\RPGItemPickUpBase.cpp">
+      <Filter>Source\RPG_V1\Private\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Items\RPGItemBaseConsumable.cpp">
+      <Filter>Source\RPG_V1\Private\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPG_V1\Private\Inventory\RPGExternalStorageActorBase.cpp">
+      <Filter>Source\RPG_V1\Private\Inventory</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

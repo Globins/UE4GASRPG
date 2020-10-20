@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RPG_V1-6957.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\RPG_V1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\UE4Editor\Development\RPG_V1\RPGBlueprintFunctionLibrary.cpp.obj"
+"C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\UE4Editor\Development\RPG_V1\RPGEngineSubsystem.cpp.obj"
+"C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\UE4Editor\Development\RPG_V1\RPG_V1.cpp.obj"
+"C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\UE4Editor\Development\RPG_V1\RPG_V1GameModeBase.cpp.obj"
+"C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\UE4Editor\Development\RPG_V1\RPGBlueprintFunctionLibrary.gen.cpp.obj"
+"C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\UE4Editor\Development\RPG_V1\RPGEngineSubsystem.gen.cpp.obj"
+"C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\UE4Editor\Development\RPG_V1\RPG_V1.init.gen.cpp.obj"
+"C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\UE4Editor\Development\RPG_V1\RPG_V1GameModeBase.gen.cpp.obj"
+"C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\UE4Editor\Development\RPG_V1\Default.rc2.res"
+/OUT:"C:\0_Coding\Unreal Projects\RPG_V1\Intermediate\Build\Win64\UE4Editor\Development\RPG_V1\UE4Editor-RPG_V1-6957.lib"
+/INCLUDE:IMPLEMENT_MODULE_RPG_V1

@@ -1,0 +1,1394 @@
+﻿Log file open, 08/20/20 09:27:40
+LogInit: Display: Running engine for game: RPG_V1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.276215
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13594126
+LogInit: Engine Version: 4.25.1-13594126+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun  2 2020 02:10:36
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/0_Coding/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Engine.ini]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Engine.ini]
+[2020.08.20-16.27.40:680][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Engine.ini]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Engine.ini]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.20-16.27.40:680][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Engine.ini]
+[2020.08.20-16.27.40:680][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Engine.ini]
+[2020.08.20-16.27.40:686][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.20-16.27.40:686][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.20-16.27.40:687][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-16.27.40:687][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.20-16.27.40:688][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.20-16.27.40:688][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.20-16.27.40:688][  0]LogHAL: Display: Platform has ~ 24 GB [25682313216 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.20-16.27.40:688][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.20-16.27.40:688][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.20-16.27.40:688][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.20-16.27.40:689][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.20-16.27.40:690][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.20-16.27.40:690][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.20-16.27.40:690][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.08.20-16.27.40:690][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/0_Coding/Unreal Projects/RPG_V1/Saved/Config/Windows/Engine.ini]
+[2020.08.20-16.27.40:690][  0]LogInit: Computer: MSI
+[2020.08.20-16.27.40:690][  0]LogInit: User: gordonL
+[2020.08.20-16.27.40:690][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.08.20-16.27.40:690][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.20-16.27.40:690][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2020.08.20-16.27.40:690][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.20-16.27.40:690][  0]LogMemory: Process Physical Memory: 114.88 MB used, 114.89 MB peak
+[2020.08.20-16.27.40:690][  0]LogMemory: Process Virtual Memory: 100.38 MB used, 100.38 MB peak
+[2020.08.20-16.27.40:690][  0]LogMemory: Physical Memory: 5582.34 MB used,  18910.23 MB free, 24492.56 MB total
+[2020.08.20-16.27.40:690][  0]LogMemory: Virtual Memory: 5132.78 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.08.20-16.27.40:697][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.20-16.27.40:735][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.08.20-16.27.40:736][  0]LogInit: Using OS detected language (en-US).
+[2020.08.20-16.27.40:736][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.20-16.27.40:746][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.20-16.27.40:971][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.20-16.27.41:015][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.20-16.27.41:015][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.20-16.27.41:209][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.20-16.27.41:210][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.08.20-16.27.41:210][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.08.20-16.27.41:210][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.20-16.27.41:284][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.08.20-16.27.41:284][  0]LogD3D11RHI:       1979/0/12246 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.08.20-16.27.41:299][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.08.20-16.27.41:299][  0]LogD3D11RHI:       128/0/12246 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.08.20-16.27.41:302][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.20-16.27.41:302][  0]LogD3D11RHI:       0/0/12246 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.20-16.27.41:302][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.20-16.27.41:340][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.20-16.27.41:341][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2020.08.20-16.27.41:341][  0]LogWindows: EnumDisplayDevices:
+[2020.08.20-16.27.41:341][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.08.20-16.27.41:341][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2020.08.20-16.27.41:341][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.08.20-16.27.41:342][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.08.20-16.27.41:342][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.08.20-16.27.41:342][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.08.20-16.27.41:342][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.08.20-16.27.41:342][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2020.08.20-16.27.41:394][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.08.20-16.27.41:396][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.08.20-16.27.41:396][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.20-16.27.41:396][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.08.20-16.27.41:413][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.08.20-16.27.41:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.08.20-16.27.41:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.08.20-16.27.41:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.08.20-16.27.41:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.08.20-16.27.41:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.08.20-16.27.41:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.08.20-16.27.41:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.08.20-16.27.41:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.08.20-16.27.41:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.08.20-16.27.41:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.08.20-16.27.41:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.08.20-16.27.41:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.08.20-16.27.41:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.08.20-16.27.41:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.08.20-16.27.41:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.08.20-16.27.41:804][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.08.20-16.27.41:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.08.20-16.27.41:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.08.20-16.27.41:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.08.20-16.27.41:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.08.20-16.27.41:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.08.20-16.27.41:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.08.20-16.27.41:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.08.20-16.27.41:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.08.20-16.27.41:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.08.20-16.27.41:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.08.20-16.27.41:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.08.20-16.27.41:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.08.20-16.27.41:930][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.20-16.27.41:938][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.20-16.27.42:000][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (../../../../Unreal Projects/RPG_V1/Intermediate/Shaders/WorkingDirectory/20368/).
+[2020.08.20-16.27.42:000][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mlobi/AppData/Local/Temp/UnrealShaderWorkingDir/E326466F4F1CFB2ED4D1ACBA629EA3C8/'.
+[2020.08.20-16.27.42:000][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.08.20-16.27.42:000][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.08.20-16.27.42:000][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.20-16.27.42:863][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.20-16.27.42:924][  0]LogDerivedDataCache: Loaded boot cache 0.06s 79MB C:/Users/mlobi/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.08.20-16.27.42:924][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mlobi/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.08.20-16.27.42:924][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Unreal Projects/RPG_V1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.20-16.27.42:924][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.20-16.27.42:924][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Unreal Projects/RPG_V1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.20-16.27.42:924][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.20-16.27.42:936][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.20-16.27.42:936][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.20-16.27.42:936][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.08.20-16.27.42:938][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mlobi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.20-16.27.42:938][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.08.20-16.27.42:938][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.08.20-16.27.42:994][  0]LogSlate: Using FreeType 2.10.0
+[2020.08.20-16.27.42:995][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.20-16.27.43:025][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2020.08.20-16.27.43:277][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.20-16.27.43:400][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.20-16.27.43:400][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.08.20-16.27.43:400][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.08.20-16.27.43:400][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.08.20-16.27.43:400][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.08.20-16.27.43:418][  0]LogNetVersion: RPG_V1 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 900642917)
+[2020.08.20-16.27.43:908][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002B5D7E1A280), frame # 0
+[2020.08.20-16.27.43:908][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B5D8D0AAC0), frame # 0
+[2020.08.20-16.27.43:910][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B5D8D55E00), frame # 0
+[2020.08.20-16.27.43:994][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.078370 seconds
+[2020.08.20-16.27.43:999][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.08.20-16.27.43:999][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.08.20-16.27.43:999][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.20-16.27.44:339][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.20-16.27.44:344][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.20-16.27.44:385][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.08.20-16.27.44:432][  0]LogSteamShared: Display: Loading Steam SDK 1.47
+[2020.08.20-16.27.44:436][  0]LogSteamShared: Steam SDK Loaded!
+[2020.08.20-16.27.44:948][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2020.08.20-16.27.44:948][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2020.08.20-16.27.44:948][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2020.08.20-16.27.44:984][  0]SourceControl: Source control is disabled
+[2020.08.20-16.27.44:984][  0]SourceControl: Source control is disabled
+[2020.08.20-16.27.44:987][  0]SourceControl: Source control is disabled
+[2020.08.20-16.27.44:990][  0]SourceControl: Source control is disabled
+[2020.08.20-16.27.44:997][  0]SourceControl: Source control is disabled
+[2020.08.20-16.27.45:248][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.20-16.27.45:268][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.20-16.27.45:268][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.20-16.27.45:319][  0]LogOcInput: OculusInput pre-init called
+[2020.08.20-16.27.45:331][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.08.20-16.27.45:331][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.08.20-16.27.45:397][  0]LogEngine: Initializing Engine...
+[2020.08.20-16.27.45:399][  0]LogAbilitySystem: Warning: No GameplayCueNotifyPaths were specified in DefaultGame.ini under [/Script/GameplayAbilities.AbilitySystemGlobals]. Falling back to using all of /Game/. This may be slow on large projects. Consider specifying which paths are to be searched.
+[2020.08.20-16.27.45:429][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.20-16.27.45:429][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.08.20-16.27.45:562][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.20-16.27.45:569][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.20-16.27.45:569][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B5DFC63C00), frame # 0
+[2020.08.20-16.27.45:569][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B5DFCA2700), frame # 0
+[2020.08.20-16.27.45:591][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.20-16.27.45:591][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.20-16.27.45:591][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.20-16.27.45:591][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.20-16.27.45:591][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.20-16.27.45:591][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.20-16.27.45:591][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.20-16.27.45:591][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.20-16.27.45:591][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.20-16.27.45:591][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.20-16.27.45:607][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.20-16.27.45:607][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.08.20-16.27.45:687][  0]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.08.20-16.27.45:689][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.20-16.27.45:691][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.20-16.27.45:691][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.20-16.27.45:692][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.20-16.27.45:693][  0]LogInit: FAudioDevice initialized.
+[2020.08.20-16.27.45:693][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.20-16.27.45:770][  0]LogDerivedDataCache: Saved boot cache 0.08s 79MB C:/Users/mlobi/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.08.20-16.27.45:775][  0]LogInit: Texture streaming: Enabled
+[2020.08.20-16.27.45:791][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.20-16.27.45:791][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.08.20-16.27.45:792][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.08.20-16.27.45:865][  0]LogInit: Transaction tracking system initialized
+[2020.08.20-16.27.45:885][  0]BlueprintLog: New page: Editor Load
+[2020.08.20-16.27.45:953][  0]LocalizationService: Localization service is disabled
+[2020.08.20-16.27.46:119][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.20-16.27.46:119][  0]LogCook: Display: Mobile HDR setting 1
+[2020.08.20-16.27.46:126][  0]LogFileCache: Scanning file cache for directory 'C:/0_Coding/Unreal Projects/RPG_V1/Content/' took 0.01s
+[2020.08.20-16.27.46:127][  0]LogStats: FGameplayAbilitiesEditorModule::GameplayTagTreeChanged -  0.000 s
+[2020.08.20-16.27.46:470][  0]LogStats: UGameplayCueManager::InitializeEditorObjectLibrary -  0.005 s
+[2020.08.20-16.27.46:493][  0]SourceControl: Source control is disabled
+[2020.08.20-16.27.46:493][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.895
+[2020.08.20-16.27.46:493][  0]Cmd: MAP LOAD FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Maps/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.20-16.27.46:501][  0]LightingResults: New page: Lighting Build
+[2020.08.20-16.27.46:501][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-16.27.46:502][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-16.27.46:502][  0]MapCheck: New page: Map Check
+[2020.08.20-16.27.46:502][  0]LightingResults: New page: Lighting Build
+[2020.08.20-16.27.46:512][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B5DFC63C00), frame # 0
+[2020.08.20-16.27.46:512][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B5DFCA2700), frame # 0
+[2020.08.20-16.27.46:513][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.08.20-16.27.46:680][  0]LogAIModule: Creating AISystem for world TestMap
+[2020.08.20-16.27.46:680][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B5CDC35C00), frame # 0
+[2020.08.20-16.27.46:680][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B5DD4ECF40), frame # 0
+[2020.08.20-16.27.46:692][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.20-16.27.46:704][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.08.20-16.27.46:705][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.20-16.27.46:705][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.172ms to complete.
+[2020.08.20-16.27.46:705][  0]LogFileHelpers: Loading map 'TestMap' took 0.211
+[2020.08.20-16.27.46:718][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.119
+[2020.08.20-16.27.46:908][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.20-16.27.46:916][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.20-16.27.46:924][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.20-16.27.46:933][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.20-16.27.46:963][  0]LogCollectionManager: Loaded 0 collections in 0.002202 seconds
+[2020.08.20-16.27.46:993][  0]LogFileCache: Scanning file cache for directory 'C:/0_Coding/Unreal Projects/RPG_V1/Saved/Collections/' took 0.00s
+[2020.08.20-16.27.46:994][  0]LogFileCache: Scanning file cache for directory 'C:/0_Coding/Unreal Projects/RPG_V1/Content/Developers/gordonL/Collections/' took 0.00s
+[2020.08.20-16.27.46:994][  0]LogFileCache: Scanning file cache for directory 'C:/0_Coding/Unreal Projects/RPG_V1/Content/Collections/' took 0.00s
+[2020.08.20-16.27.46:994][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 3536 classes and 844 folders.
+[2020.08.20-16.27.46:999][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.08.20-16.27.47:446][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.08.20-16.27.47:450][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2020.08.20-16.27.47:658][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.20-16.27.47:661][  0]LogSlate: Took 0.000535 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.20-16.27.47:673][  0]LogSlate: Took 0.006659 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.20-16.27.47:836][  0]LogRenderer: Reallocating scene render targets to support 1108x536 Format 10 NumSamples 1 (Frame:1).
+[2020.08.20-16.27.47:916][  0]LogSlate: Took 0.006953 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.20-16.27.48:018][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.08.20-16.27.48:018][  0]LogLoad: (Engine Initialization) Total time: 10.42 seconds
+[2020.08.20-16.27.48:018][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.20-16.27.48:064][  0]LogAssetRegistry: Asset discovery search completed in 5.0399 seconds
+[2020.08.20-16.27.48:068][  0]LogStats: UGameplayCueManager::InitializeEditorObjectLibrary -  0.004 s
+[2020.08.20-16.27.48:075][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.08.20-16.27.48:076][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.20-16.30.26:803][675]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.20-16.30.44:043][683]LogAssetEditorSubsystem: Opening Asset editor for World /Game/RPG_V1_Content/Maps/MenuMap.MenuMap
+[2020.08.20-16.30.44:057][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.08.20-16.30.44:060][683]Cmd: MAP LOAD FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Maps/MenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.20-16.30.44:060][683]LightingResults: New page: Lighting Build
+[2020.08.20-16.30.44:060][683]LoadErrors: New page: Loading map: MenuMap.umap
+[2020.08.20-16.30.44:061][683]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-16.30.44:061][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-16.30.44:061][683]MapCheck: New page: Map Check
+[2020.08.20-16.30.44:061][683]LightingResults: New page: Lighting Build
+[2020.08.20-16.30.44:073][683]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B5CDC35C00), frame # 2683
+[2020.08.20-16.30.44:073][683]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B5DD4ECF40), frame # 2683
+[2020.08.20-16.30.44:074][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.08.20-16.30.44:131][683]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.20-16.30.44:131][683]LogAIModule: Creating AISystem for world MenuMap
+[2020.08.20-16.30.44:131][683]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B58D283000), frame # 2683
+[2020.08.20-16.30.44:131][683]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B5DD4EF880), frame # 2683
+[2020.08.20-16.30.44:142][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.08.20-16.30.44:185][683]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.20-16.30.44:185][683]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.262ms to complete.
+[2020.08.20-16.30.44:185][683]LogFileHelpers: Loading map 'MenuMap' took 0.125
+[2020.08.20-17.00.55:727][316]LogLinker: Warning: Failed to load '/Game/RPG_ProjectContent/UI/LoadingScreen': Can't find file.
+[2020.08.20-17.00.55:727][316]LogLinker: Warning: Failed to load '/Game/RPG_ProjectContent/UI/LoadingScreen': Can't find file.
+[2020.08.20-17.00.55:727][316]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/RPG_ProjectContent/UI/LoadingScreen.LoadingScreen'
+[2020.08.20-17.01.29:770][896]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Chat/LoadingScreen.LoadingScreen_C' ref from Metadata '/Game/RPG_V1_Content/UI/RPG_ProjectContent/UI/LoadingScreen.PackageMetaData'
+[2020.08.20-17.01.29:770][896]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Chat/LoadingScreen.SKEL_LoadingScreen_C:PreConstruct' ref from Metadata '/Game/RPG_V1_Content/UI/RPG_ProjectContent/UI/LoadingScreen.PackageMetaData'
+[2020.08.20-17.01.29:770][896]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Chat/LoadingScreen.SKEL_LoadingScreen_C:Construct' ref from Metadata '/Game/RPG_V1_Content/UI/RPG_ProjectContent/UI/LoadingScreen.PackageMetaData'
+[2020.08.20-17.01.29:770][896]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Chat/LoadingScreen.SKEL_LoadingScreen_C:Tick' ref from Metadata '/Game/RPG_V1_Content/UI/RPG_ProjectContent/UI/LoadingScreen.PackageMetaData'
+[2020.08.20-17.01.29:770][896]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Chat/LoadingScreen.SKEL_LoadingScreen_C' ref from Metadata '/Game/RPG_V1_Content/UI/RPG_ProjectContent/UI/LoadingScreen.PackageMetaData'
+[2020.08.20-17.01.29:801][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Chat/LoadingScreen" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Chat/LoadingScreen.uasset" SILENT=true
+[2020.08.20-17.01.29:818][896]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/LoadingScreenBFAFF24544CA145A595DDDB45F517916.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Chat/LoadingScreen.uasset'
+[2020.08.20-17.01.29:923][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.08.20-17.01.29:944][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.08.20-17.01.29:953][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.08.20-17.01.29:973][896]AssetCheck: New page: Asset Save: LoadingScreen
+[2020.08.20-17.01.29:973][896]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Chat/LoadingScreen.LoadingScreen
+[2020.08.20-17.01.35:894][244]LogMetaData: Removing '/Game/RPG_V1_Content/UI/LoadingScreen.LoadingScreen_C' ref from Metadata '/Game/RPG_V1_Content/UI/Chat/LoadingScreen.PackageMetaData'
+[2020.08.20-17.01.35:894][244]LogMetaData: Removing '/Game/RPG_V1_Content/UI/LoadingScreen.SKEL_LoadingScreen_C' ref from Metadata '/Game/RPG_V1_Content/UI/Chat/LoadingScreen.PackageMetaData'
+[2020.08.20-17.01.35:894][244]LogMetaData: Removing '/Game/RPG_V1_Content/UI/LoadingScreen.SKEL_LoadingScreen_C:PreConstruct' ref from Metadata '/Game/RPG_V1_Content/UI/Chat/LoadingScreen.PackageMetaData'
+[2020.08.20-17.01.35:894][244]LogMetaData: Removing '/Game/RPG_V1_Content/UI/LoadingScreen.SKEL_LoadingScreen_C:Construct' ref from Metadata '/Game/RPG_V1_Content/UI/Chat/LoadingScreen.PackageMetaData'
+[2020.08.20-17.01.35:894][244]LogMetaData: Removing '/Game/RPG_V1_Content/UI/LoadingScreen.SKEL_LoadingScreen_C:Tick' ref from Metadata '/Game/RPG_V1_Content/UI/Chat/LoadingScreen.PackageMetaData'
+[2020.08.20-17.01.35:927][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/LoadingScreen" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/LoadingScreen.uasset" SILENT=true
+[2020.08.20-17.01.35:940][244]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/LoadingScreenE32922B946230B386AC564B589286654.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/LoadingScreen.uasset'
+[2020.08.20-17.01.36:052][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.08.20-17.01.36:067][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.08.20-17.01.36:077][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.08.20-17.01.36:096][244]AssetCheck: New page: Asset Save: LoadingScreen
+[2020.08.20-17.01.36:096][244]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/LoadingScreen.LoadingScreen
+[2020.08.20-17.01.47:066][887]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/RPG_V1_Content/UI/LoadingScreen.LoadingScreen
+[2020.08.20-17.01.47:650][887]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 125 classes and 0 folders.
+[2020.08.20-17.01.49:114][887]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.20-17.01.51:892][ 48]LogSlate: Window 'LoadingScreen' being destroyed
+[2020.08.20-17.01.51:901][ 48]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-17.01.51:901][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-17.01.51:929][ 48]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-17.01.51:929][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-17.04.06:897][158]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.08.20-17.04.14:785][158]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.08.20-17.04.18:878][397]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/RPG_V1_Content/UI/Menus/Settings/MainMenu.MainMenu
+[2020.08.20-17.04.21:316][496]LogSlate: Window 'MainMenu' being destroyed
+[2020.08.20-17.04.48:272][657]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.08.20-17.04.48:273][657]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RPG_V1_Content/Maps/MenuMap' took 0.092
+[2020.08.20-17.04.48:275][657]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RPG_V1_Content/UI/Menus/Settings/MainMenu] ([1] browsable assets)...
+[2020.08.20-17.04.48:275][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/RPG_V1_Content/UI/Menus/Settings/MainMenu]
+[2020.08.20-17.04.48:287][657]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/MainMenu_Auto1E32491A34E5478A161CBB7B7B8EB4715.tmp' to '../../../../Unreal Projects/RPG_V1/Saved/Autosaves/Game/RPG_V1_Content/UI/Menus/Settings/MainMenu_Auto1.uasset'
+[2020.08.20-17.04.48:288][657]LogFileHelpers: Auto-saving content packages took 0.015
+[2020.08.20-17.05.56:013][372]BlueprintLog: New page: Compile MainMenu
+[2020.08.20-17.05.56:059][372]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.08.20-17.05.56:118][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Menus/Settings/MainMenu" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Menus/Settings/MainMenu.uasset" SILENT=true
+[2020.08.20-17.05.56:136][372]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/MainMenuB6A1D5F84A3EC7F1C07A688487366260.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Menus/Settings/MainMenu.uasset'
+[2020.08.20-17.05.56:154][372]AssetCheck: New page: Asset Save: MainMenu
+[2020.08.20-17.05.56:155][372]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Menus/Settings/MainMenu.MainMenu
+[2020.08.20-17.06.09:512][889]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPG_ProjectContent/Blueprints/GI_RPG.GI_RPG_C"''
+[2020.08.20-17.06.09:515][889]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPG_ProjectContent/Blueprints/GI_RPG.GI_RPG_C"',MemberName="ShowOptionsMenu",MemberGuid=C87991EB4FD3B205E1E1708C733E9D8A)'
+[2020.08.20-17.06.09:515][889]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPG_ProjectContent/Blueprints/GI_RPG.GI_RPG_C"',MemberName="ShowOnlineMenu",MemberGuid=DC7684BD413A210D7A6C2FB544E1ADBD)'
+[2020.08.20-17.06.09:586][890]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.20-17.06.22:741][478]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.20-17.07.15:954][476]BlueprintLog: New page: Compile MainMenu
+[2020.08.20-17.07.15:987][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.08.20-17.07.16:024][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Menus/Settings/MainMenu" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Menus/Settings/MainMenu.uasset" SILENT=true
+[2020.08.20-17.07.16:092][476]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/MainMenu43DACDB8480C5AB1FA52EA8EE60674BC.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Menus/Settings/MainMenu.uasset'
+[2020.08.20-17.07.16:105][476]AssetCheck: New page: Asset Save: MainMenu
+[2020.08.20-17.07.16:105][476]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Menus/Settings/MainMenu.MainMenu
+[2020.08.20-17.07.35:663][633]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.BP_GameInstance_RPG
+[2020.08.20-17.07.53:177][627]BlueprintLog: New page: Compile BP_GameInstance_RPG
+[2020.08.20-17.07.53:217][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.08.20-17.07.53:262][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/Blueprints/BP_GameInstance_RPG" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.uasset" SILENT=true
+[2020.08.20-17.07.53:293][627]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_GameInstance_RPG66D671C846F4D5351CE424A1F031CC6B.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.uasset'
+[2020.08.20-17.07.53:309][627]AssetCheck: New page: Asset Save: BP_GameInstance_RPG
+[2020.08.20-17.07.53:309][627]LogContentValidation: Display: Validating Blueprint /Game/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.BP_GameInstance_RPG
+[2020.08.20-17.07.53:331][627]LogSlate: Took 0.008336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.08.20-17.07.53:782][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/Blueprints/BP_GameInstance_RPG" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.uasset" SILENT=true
+[2020.08.20-17.07.53:808][653]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_GameInstance_RPG7BEB4EDA42375786CBBB4C986FA6C4FC.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.uasset'
+[2020.08.20-17.07.53:817][653]AssetCheck: New page: Asset Save: BP_GameInstance_RPG
+[2020.08.20-17.07.53:818][653]LogContentValidation: Display: Validating Blueprint /Game/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.BP_GameInstance_RPG
+[2020.08.20-17.08.06:537][395]BlueprintLog: New page: Compile BP_GameInstance_RPG
+[2020.08.20-17.08.06:575][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.08.20-17.08.56:819][347]BlueprintLog: New page: Compile MainMenu
+[2020.08.20-17.08.56:852][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.08.20-17.08.56:887][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Menus/Settings/MainMenu" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Menus/Settings/MainMenu.uasset" SILENT=true
+[2020.08.20-17.08.56:925][347]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/MainMenu08EE619F405C93B92D9F3DB0DBE0DFCE.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Menus/Settings/MainMenu.uasset'
+[2020.08.20-17.08.56:940][347]AssetCheck: New page: Asset Save: MainMenu
+[2020.08.20-17.08.56:940][347]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Menus/Settings/MainMenu.MainMenu
+[2020.08.20-17.08.57:404][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Menus/Settings/MainMenu" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Menus/Settings/MainMenu.uasset" SILENT=true
+[2020.08.20-17.08.57:440][372]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/MainMenuDD6E84AE43C2E5F6780CDFADC9CDECF9.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Menus/Settings/MainMenu.uasset'
+[2020.08.20-17.08.57:452][372]AssetCheck: New page: Asset Save: MainMenu
+[2020.08.20-17.08.57:452][372]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Menus/Settings/MainMenu.MainMenu
+[2020.08.20-17.09.00:691][562]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/RPG_V1_Content/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap
+[2020.08.20-17.09.28:628][756]BlueprintLog: New page: Compile MenuMap
+[2020.08.20-17.09.28:662][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.08.20-17.09.28:698][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/Maps/MenuMap" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Maps/MenuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.20-17.09.28:728][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.08.20-17.09.28:754][756]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/MenuMap6F783FB84AB9FA76DEA217BB14048721.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Maps/MenuMap.umap'
+[2020.08.20-17.09.28:803][756]LogFileHelpers: Saving map 'MenuMap' took 0.105
+[2020.08.20-17.09.28:813][756]AssetCheck: New page: Asset Save: MenuMap
+[2020.08.20-17.09.28:813][756]LogContentValidation: Display: Validating World /Game/RPG_V1_Content/Maps/MenuMap.MenuMap
+[2020.08.20-17.09.43:929][495]BlueprintLog: New page: Compile BP_GameInstance_RPG
+[2020.08.20-17.09.43:973][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.08.20-17.09.44:011][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/Blueprints/BP_GameInstance_RPG" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.uasset" SILENT=true
+[2020.08.20-17.09.44:037][495]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_GameInstance_RPGA34695684CBA16CA438AFA8AD8A3DA39.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.uasset'
+[2020.08.20-17.09.44:049][495]AssetCheck: New page: Asset Save: BP_GameInstance_RPG
+[2020.08.20-17.09.44:049][495]LogContentValidation: Display: Validating Blueprint /Game/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.BP_GameInstance_RPG
+[2020.08.20-17.09.52:939][ 23]BlueprintLog: New page: Compile MenuMap
+[2020.08.20-17.09.52:986][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.08.20-17.09.53:012][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/Maps/MenuMap" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Maps/MenuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.20-17.09.53:041][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.20-17.09.53:065][ 23]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/MenuMap536F60F34E102C30233A418BF47C2048.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Maps/MenuMap.umap'
+[2020.08.20-17.09.53:110][ 23]LogFileHelpers: Saving map 'MenuMap' took 0.098
+[2020.08.20-17.09.53:120][ 23]AssetCheck: New page: Asset Save: MenuMap
+[2020.08.20-17.09.53:120][ 23]LogContentValidation: Display: Validating World /Game/RPG_V1_Content/Maps/MenuMap.MenuMap
+[2020.08.20-17.09.53:565][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/Maps/MenuMap" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Maps/MenuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.20-17.09.53:597][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.08.20-17.09.53:622][ 48]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/MenuMap2AC9548C4DCD9A4E82F097BA3F8550F7.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Maps/MenuMap.umap'
+[2020.08.20-17.09.53:665][ 48]LogFileHelpers: Saving map 'MenuMap' took 0.101
+[2020.08.20-17.09.53:675][ 48]AssetCheck: New page: Asset Save: MenuMap
+[2020.08.20-17.09.53:675][ 48]LogContentValidation: Display: Validating World /Game/RPG_V1_Content/Maps/MenuMap.MenuMap
+[2020.08.20-17.09.54:738][111]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-17.09.54:739][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-17.10.23:957][ 47]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Menus/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/RPG_V1_Content/UI/Menus/Settings/MainMenu.PackageMetaData'
+[2020.08.20-17.10.23:957][ 47]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Menus/MainMenu.MainMenu_C' ref from Metadata '/Game/RPG_V1_Content/UI/Menus/Settings/MainMenu.PackageMetaData'
+[2020.08.20-17.10.23:957][ 47]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Menus/MainMenu.MainMenu_C:Construct' ref from Metadata '/Game/RPG_V1_Content/UI/Menus/Settings/MainMenu.PackageMetaData'
+[2020.08.20-17.10.23:957][ 47]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Menus/MainMenu.SKEL_MainMenu_C:BndEvt__FindMatchButton_K2Node_ComponentBoundEvent_5_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/RPG_V1_Content/UI/Menus/Settings/MainMenu.PackageMetaData'
+[2020.08.20-17.10.23:957][ 47]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Menus/MainMenu.SKEL_MainMenu_C:Construct' ref from Metadata '/Game/RPG_V1_Content/UI/Menus/Settings/MainMenu.PackageMetaData'
+[2020.08.20-17.10.23:957][ 47]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Menus/MainMenu.SKEL_MainMenu_C:BndEvt__TrainingRoom_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/RPG_V1_Content/UI/Menus/Settings/MainMenu.PackageMetaData'
+[2020.08.20-17.10.23:957][ 47]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Menus/MainMenu.SKEL_MainMenu_C:BndEvt__QuitButton_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/RPG_V1_Content/UI/Menus/Settings/MainMenu.PackageMetaData'
+[2020.08.20-17.10.23:957][ 47]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Menus/MainMenu.SKEL_MainMenu_C:BndEvt__OptionsButton_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/RPG_V1_Content/UI/Menus/Settings/MainMenu.PackageMetaData'
+[2020.08.20-17.10.23:957][ 47]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Menus/MainMenu.SKEL_MainMenu_C:BndEvt__PlayButton_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/RPG_V1_Content/UI/Menus/Settings/MainMenu.PackageMetaData'
+[2020.08.20-17.10.23:989][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Menus/MainMenu" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Menus/MainMenu.uasset" SILENT=true
+[2020.08.20-17.10.24:015][ 47]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/MainMenuAD23066E493D99C0ED046D959BED6627.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Menus/MainMenu.uasset'
+[2020.08.20-17.10.24:181][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.08.20-17.10.24:214][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.08.20-17.10.24:240][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.08.20-17.10.24:267][ 47]AssetCheck: New page: Asset Save: MainMenu
+[2020.08.20-17.10.24:267][ 47]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Menus/MainMenu.MainMenu
+[2020.08.20-17.10.30:743][414]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.08.20-17.10.35:666][414]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.08.20-17.10.43:859][899]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Options.BP_Options
+[2020.08.20-17.10.47:100][ 66]BlueprintLog: New page: Compile BP_Options
+[2020.08.20-17.10.47:145][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.08.20-17.10.47:202][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Options" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Options.uasset" SILENT=true
+[2020.08.20-17.10.47:217][ 66]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_Options133131FE4287DD30B15E5A961E2244C2.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Options.uasset'
+[2020.08.20-17.10.47:230][ 66]AssetCheck: New page: Asset Save: BP_Options
+[2020.08.20-17.10.47:230][ 66]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Options.BP_Options
+[2020.08.20-17.10.48:419][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Options" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Options.uasset" SILENT=true
+[2020.08.20-17.10.48:452][132]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_OptionsBF6E15144324E4DB8D6FDBA2099A295A.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Options.uasset'
+[2020.08.20-17.10.48:461][132]AssetCheck: New page: Asset Save: BP_Options
+[2020.08.20-17.10.48:461][132]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Options.BP_Options
+[2020.08.20-17.11.10:636][601]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.08.20-17.11.23:638][601]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.08.20-17.11.30:793][679]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.08.20-17.11.35:082][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.08.20-17.11.36:036][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.08.20-17.11.37:285][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.08.20-17.11.41:156][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.08.20-17.11.45:156][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.08.20-17.11.46:149][501]LogSlate: Window 'Save Content' being destroyed
+[2020.08.20-17.11.46:183][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/NewBlueprint" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/NewBlueprint.uasset" SILENT=true
+[2020.08.20-17.11.46:196][501]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/NewBlueprintD5344EFB4D8714257DC7D18BBCC744CE.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/NewBlueprint.uasset'
+[2020.08.20-17.11.46:199][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/NewBlueprint1" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/NewBlueprint1.uasset" SILENT=true
+[2020.08.20-17.11.46:212][501]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/NewBlueprint16A9AE4BC4D684057EB6BACA5807F6CD6.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/NewBlueprint1.uasset'
+[2020.08.20-17.11.46:215][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/NewBlueprint2" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/NewBlueprint2.uasset" SILENT=true
+[2020.08.20-17.11.46:225][501]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/NewBlueprint26E18C7944D5009809C44BBBB417818E0.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/NewBlueprint2.uasset'
+[2020.08.20-17.11.46:228][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/NewBlueprint3" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/NewBlueprint3.uasset" SILENT=true
+[2020.08.20-17.11.46:238][501]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/NewBlueprint3EBB479FA4D39AAFD7BC139906738C030.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/NewBlueprint3.uasset'
+[2020.08.20-17.11.46:240][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/NewBlueprint4" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/NewBlueprint4.uasset" SILENT=true
+[2020.08.20-17.11.46:250][501]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/NewBlueprint4660A8D554FEEF058161255A6DFF92685.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/NewBlueprint4.uasset'
+[2020.08.20-17.11.46:288][501]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.20-17.11.46:288][501]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/NewBlueprint.NewBlueprint
+[2020.08.20-17.11.46:288][501]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/NewBlueprint1.NewBlueprint1
+[2020.08.20-17.11.46:288][501]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/NewBlueprint2.NewBlueprint2
+[2020.08.20-17.11.46:288][501]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/NewBlueprint3.NewBlueprint3
+[2020.08.20-17.11.46:288][501]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/NewBlueprint4.NewBlueprint4
+[2020.08.20-17.16.46:933][629]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/NewBlueprint.NewBlueprint
+[2020.08.20-17.16.52:540][934]BlueprintLog: New page: Compile NewBlueprint
+[2020.08.20-17.16.52:581][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.08.20-17.16.52:646][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/NewBlueprint" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/NewBlueprint.uasset" SILENT=true
+[2020.08.20-17.16.52:682][934]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/NewBlueprint92DDE7B642EBC13317B648952D6F215D.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/NewBlueprint.uasset'
+[2020.08.20-17.16.52:693][934]AssetCheck: New page: Asset Save: NewBlueprint
+[2020.08.20-17.16.52:693][934]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/NewBlueprint.NewBlueprint
+[2020.08.20-17.16.58:606][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.08.20-17.16.58:636][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_AccountSetting" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_AccountSetting.uasset" SILENT=true
+[2020.08.20-17.16.58:655][262]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_AccountSettingCC0C7C434D78F6C46CC2E78862B4E3FB.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_AccountSetting.uasset'
+[2020.08.20-17.16.58:658][262]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Settings/BP_AccountSetting.SKEL_BP_AccountSetting_C' ref from Metadata '/Game/RPG_V1_Content/UI/Settings/NewBlueprint.PackageMetaData'
+[2020.08.20-17.16.58:658][262]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Settings/BP_AccountSetting.BP_AccountSetting_C' ref from Metadata '/Game/RPG_V1_Content/UI/Settings/NewBlueprint.PackageMetaData'
+[2020.08.20-17.16.58:658][262]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Settings/BP_AccountSetting.BP_AccountSetting:EventGraph.K2Node_Event_0' ref from Metadata '/Game/RPG_V1_Content/UI/Settings/NewBlueprint.PackageMetaData'
+[2020.08.20-17.16.58:658][262]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Settings/BP_AccountSetting.BP_AccountSetting:EventGraph.K2Node_Event_1' ref from Metadata '/Game/RPG_V1_Content/UI/Settings/NewBlueprint.PackageMetaData'
+[2020.08.20-17.16.58:658][262]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Settings/BP_AccountSetting.BP_AccountSetting:EventGraph.K2Node_Event_2' ref from Metadata '/Game/RPG_V1_Content/UI/Settings/NewBlueprint.PackageMetaData'
+[2020.08.20-17.16.58:691][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_AccountSetting" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_AccountSetting.uasset" SILENT=true
+[2020.08.20-17.16.58:724][262]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_AccountSetting3BAF47DD49238EB560375DA731DA58C7.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_AccountSetting.uasset'
+[2020.08.20-17.16.59:024][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.08.20-17.16.59:060][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.08.20-17.16.59:090][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.08.20-17.16.59:117][262]AssetCheck: New page: Asset Save: BP_AccountSetting
+[2020.08.20-17.16.59:117][262]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_AccountSetting.BP_AccountSetting
+[2020.08.20-17.17.01:145][367]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/NewBlueprint1.NewBlueprint1
+[2020.08.20-17.17.03:335][459]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/NewBlueprint2.NewBlueprint2
+[2020.08.20-17.17.05:205][541]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/NewBlueprint3.NewBlueprint3
+[2020.08.20-17.17.06:922][613]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/NewBlueprint4.NewBlueprint4
+[2020.08.20-17.17.20:246][ 79]BlueprintLog: New page: Compile NewBlueprint1
+[2020.08.20-17.17.20:298][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.08.20-17.17.20:366][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/NewBlueprint1" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/NewBlueprint1.uasset" SILENT=true
+[2020.08.20-17.17.20:407][ 79]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/NewBlueprint12700B85A471390D6B540EB817E87E974.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/NewBlueprint1.uasset'
+[2020.08.20-17.17.20:419][ 79]AssetCheck: New page: Asset Save: NewBlueprint1
+[2020.08.20-17.17.20:419][ 79]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/NewBlueprint1.NewBlueprint1
+[2020.08.20-17.17.28:910][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.08.20-17.17.28:943][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Graphics" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset" SILENT=true
+[2020.08.20-17.17.28:978][557]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_GraphicsA6454EB941A7512E3EF8CC9269AF066B.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset'
+[2020.08.20-17.17.28:980][557]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.SKEL_BP_Graphics_C' ref from Metadata '/Game/RPG_V1_Content/UI/Settings/NewBlueprint1.PackageMetaData'
+[2020.08.20-17.17.28:980][557]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C' ref from Metadata '/Game/RPG_V1_Content/UI/Settings/NewBlueprint1.PackageMetaData'
+[2020.08.20-17.17.29:017][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Graphics" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset" SILENT=true
+[2020.08.20-17.17.29:056][557]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_Graphics4B19D33B4ED8FDBAE3E9DBA6FA3A7452.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset'
+[2020.08.20-17.17.29:376][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.08.20-17.17.29:423][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.08.20-17.17.29:463][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.08.20-17.17.29:489][557]AssetCheck: New page: Asset Save: BP_Graphics
+[2020.08.20-17.17.29:489][557]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics
+[2020.08.20-17.18.21:802][950]BlueprintLog: New page: Compile NewBlueprint2
+[2020.08.20-17.18.21:856][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.08.20-17.18.21:919][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/NewBlueprint2" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/NewBlueprint2.uasset" SILENT=true
+[2020.08.20-17.18.21:954][950]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/NewBlueprint2108EE72C405BDF4FC50C6B873B723DF7.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/NewBlueprint2.uasset'
+[2020.08.20-17.18.21:966][950]AssetCheck: New page: Asset Save: NewBlueprint2
+[2020.08.20-17.18.21:966][950]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/NewBlueprint2.NewBlueprint2
+[2020.08.20-17.18.31:279][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.08.20-17.18.31:310][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_KeyBindings" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_KeyBindings.uasset" SILENT=true
+[2020.08.20-17.18.31:334][476]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_KeyBindingsCA9D246349F425E93A6FF8B06C1D0201.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_KeyBindings.uasset'
+[2020.08.20-17.18.31:337][476]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Settings/BP_KeyBindings.SKEL_BP_KeyBindings_C' ref from Metadata '/Game/RPG_V1_Content/UI/Settings/NewBlueprint2.PackageMetaData'
+[2020.08.20-17.18.31:337][476]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Settings/BP_KeyBindings.BP_KeyBindings_C' ref from Metadata '/Game/RPG_V1_Content/UI/Settings/NewBlueprint2.PackageMetaData'
+[2020.08.20-17.18.31:372][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_KeyBindings" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_KeyBindings.uasset" SILENT=true
+[2020.08.20-17.18.31:408][476]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_KeyBindings8BC322584D2DA07934E2DABA230CAA58.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_KeyBindings.uasset'
+[2020.08.20-17.18.31:730][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.08.20-17.18.31:778][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.08.20-17.18.31:818][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.08.20-17.18.31:845][476]AssetCheck: New page: Asset Save: BP_KeyBindings
+[2020.08.20-17.18.31:845][476]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_KeyBindings.BP_KeyBindings
+[2020.08.20-17.18.47:569][951]BlueprintLog: New page: Compile NewBlueprint3
+[2020.08.20-17.18.47:619][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.08.20-17.18.47:671][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/NewBlueprint3" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/NewBlueprint3.uasset" SILENT=true
+[2020.08.20-17.18.47:708][951]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/NewBlueprint3CD19E2D4427FC2B11DFD718C3F7CFEA8.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/NewBlueprint3.uasset'
+[2020.08.20-17.18.47:719][951]AssetCheck: New page: Asset Save: NewBlueprint3
+[2020.08.20-17.18.47:719][951]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/NewBlueprint3.NewBlueprint3
+[2020.08.20-17.18.51:998][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.08.20-17.18.52:027][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Volume" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Volume.uasset" SILENT=true
+[2020.08.20-17.18.52:049][191]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_Volume1B191DA24B33FB88AD82F698F515CBBB.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Volume.uasset'
+[2020.08.20-17.18.52:051][191]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Settings/BP_Volume.SKEL_BP_Volume_C' ref from Metadata '/Game/RPG_V1_Content/UI/Settings/NewBlueprint3.PackageMetaData'
+[2020.08.20-17.18.52:051][191]LogMetaData: Removing '/Game/RPG_V1_Content/UI/Settings/BP_Volume.BP_Volume_C' ref from Metadata '/Game/RPG_V1_Content/UI/Settings/NewBlueprint3.PackageMetaData'
+[2020.08.20-17.18.52:078][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Volume" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Volume.uasset" SILENT=true
+[2020.08.20-17.18.52:115][191]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_Volume4DCA7C7445275FB34BB133968DF53BBB.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Volume.uasset'
+[2020.08.20-17.18.52:419][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.08.20-17.18.52:472][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.08.20-17.18.52:514][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.20-17.18.52:540][191]AssetCheck: New page: Asset Save: BP_Volume
+[2020.08.20-17.18.52:540][191]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Volume.BP_Volume
+[2020.08.20-17.19.02:581][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.08.20-17.19.04:352][619]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.20-17.19.05:009][619]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-17.19.05:009][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-17.19.05:040][619]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-17.19.05:041][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-17.19.05:093][619]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/RPG_V1_Content/UI/Settings/NewBlueprint4.NewBlueprint4
+[2020.08.20-17.19.05:877][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.08.20-17.19.05:921][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.08.20-17.19.05:959][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.08.20-17.19.08:513][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.08.20-17.19.46:184][949]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-17.19.46:185][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-17.19.46:213][949]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-17.19.46:213][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-17.21.10:772][917]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPG_ProjectContent/Blueprints/GI_RPG.GI_RPG_C"''
+[2020.08.20-17.21.10:773][917]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPG_ProjectContent/Blueprints/GI_RPG.GI_RPG_C"',MemberName="ShowMainMenu",MemberGuid=E4A205B34DBF69806A41578A60E456C9)'
+[2020.08.20-17.21.10:774][917]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPG_ProjectContent/Blueprints/GI_RPG.GI_RPG_C"',MemberName="ShowPauseMenu",MemberGuid=85B3320F4A1A7634C1D74594E8FCADB0)'
+[2020.08.20-17.21.10:774][917]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPG_ProjectContent/Blueprints/GI_RPG.GI_RPG_C"',MemberName="ShowOptionsGraphicMenu",MemberGuid=8F9834F6481C0AC07B3E1DBA1F4184D3)'
+[2020.08.20-17.21.10:775][917]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPG_ProjectContent/Blueprints/GI_RPG.GI_RPG_C"',MemberName="ShowOptionsKeyBindingsMenu",MemberGuid=0BF6929C471EB2DE4E9C13A841EEB9E0)'
+[2020.08.20-17.21.10:776][917]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPG_ProjectContent/Blueprints/GI_RPG.GI_RPG_C"',MemberName="ShowOptionsVolumeMenu",MemberGuid=6F6CFDD141D4C7D9E9E71CB1B8893E57)'
+[2020.08.20-17.21.10:777][917]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPG_ProjectContent/Blueprints/GI_RPG.GI_RPG_C"',MemberName="ShowAccountSettingsMenu",MemberGuid=32D8D9FB4A09AF5BDECF2EAD472B66AD)'
+[2020.08.20-17.22.28:679][865]BlueprintLog: New page: Compile BP_Options
+[2020.08.20-17.22.28:729][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.08.20-17.22.28:768][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Options" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Options.uasset" SILENT=true
+[2020.08.20-17.22.28:810][865]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_Options8982CDBE418AFCEE47CFB8B1406E596D.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Options.uasset'
+[2020.08.20-17.22.28:823][865]AssetCheck: New page: Asset Save: BP_Options
+[2020.08.20-17.22.28:823][865]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Options.BP_Options
+[2020.08.20-17.22.39:155][463]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  CustomEvent_0  and was replaced as a Custom Event!
+[2020.08.20-17.22.43:359][696]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  CustomEvent_0  and was replaced as a Custom Event!
+[2020.08.20-17.22.52:829][189]BlueprintLog: New page: Compile BP_GameInstance_RPG
+[2020.08.20-17.22.52:884][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.08.20-17.22.52:930][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/Blueprints/BP_GameInstance_RPG" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.uasset" SILENT=true
+[2020.08.20-17.22.52:963][189]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_GameInstance_RPGF161A49A47DEAE685E6EC8B356489EBD.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.uasset'
+[2020.08.20-17.22.52:974][189]AssetCheck: New page: Asset Save: BP_GameInstance_RPG
+[2020.08.20-17.22.52:975][189]LogContentValidation: Display: Validating Blueprint /Game/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.BP_GameInstance_RPG
+[2020.08.20-17.23.36:276][621]BlueprintLog: New page: Compile BP_GameInstance_RPG
+[2020.08.20-17.23.36:325][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.08.20-17.23.36:364][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/Blueprints/BP_GameInstance_RPG" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.uasset" SILENT=true
+[2020.08.20-17.23.36:393][621]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_GameInstance_RPGA19D6CDF43D32E920BEA51A4E33B1BD0.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.uasset'
+[2020.08.20-17.23.36:405][621]AssetCheck: New page: Asset Save: BP_GameInstance_RPG
+[2020.08.20-17.23.36:405][621]LogContentValidation: Display: Validating Blueprint /Game/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.BP_GameInstance_RPG
+[2020.08.20-17.23.58:168][556]BlueprintLog: New page: Compile BP_GameInstance_RPG
+[2020.08.20-17.23.58:221][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.08.20-17.23.58:258][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/Blueprints/BP_GameInstance_RPG" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.uasset" SILENT=true
+[2020.08.20-17.23.58:285][556]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_GameInstance_RPG023414114739388BE25B1D88A5AC7099.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.uasset'
+[2020.08.20-17.23.58:298][556]AssetCheck: New page: Asset Save: BP_GameInstance_RPG
+[2020.08.20-17.23.58:298][556]LogContentValidation: Display: Validating Blueprint /Game/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.BP_GameInstance_RPG
+[2020.08.20-17.23.58:709][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/Blueprints/BP_GameInstance_RPG" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.uasset" SILENT=true
+[2020.08.20-17.23.58:738][573]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_GameInstance_RPG366FBA734D9C1F51EA6EA5AA2A61E29C.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.uasset'
+[2020.08.20-17.23.58:749][573]AssetCheck: New page: Asset Save: BP_GameInstance_RPG
+[2020.08.20-17.23.58:749][573]LogContentValidation: Display: Validating Blueprint /Game/RPG_V1_Content/Blueprints/BP_GameInstance_RPG.BP_GameInstance_RPG
+[2020.08.20-17.28.08:895][408]BlueprintLog: New page: Compile BP_Options
+[2020.08.20-17.28.08:946][408]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.08.20-17.28.08:979][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Options" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Options.uasset" SILENT=true
+[2020.08.20-17.28.09:021][408]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_Options17C80533442B8AB55DD80F9396B51FDA.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Options.uasset'
+[2020.08.20-17.28.09:036][408]AssetCheck: New page: Asset Save: BP_Options
+[2020.08.20-17.28.09:036][408]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Options.BP_Options
+[2020.08.20-17.28.44:829][508]BlueprintLog: New page: Compile BP_Options
+[2020.08.20-17.28.44:876][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.08.20-17.28.44:915][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Options" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Options.uasset" SILENT=true
+[2020.08.20-17.28.44:954][508]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_OptionsF114928F4DCE307D2DF96DBCAB00B5E9.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Options.uasset'
+[2020.08.20-17.28.44:970][508]AssetCheck: New page: Asset Save: BP_Options
+[2020.08.20-17.28.44:970][508]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Options.BP_Options
+[2020.08.20-17.28.46:936][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Options" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Options.uasset" SILENT=true
+[2020.08.20-17.28.46:975][618]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_OptionsC2D9B08D4F2ECB6CC82D6C87249821B3.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Options.uasset'
+[2020.08.20-17.28.46:990][618]AssetCheck: New page: Asset Save: BP_Options
+[2020.08.20-17.28.46:990][618]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Options.BP_Options
+[2020.08.20-17.29.04:555][668]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-17.29.04:555][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-17.29.04:579][668]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-17.29.04:579][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-17.29.15:037][281]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Options.BP_Options
+[2020.08.20-17.31.04:419][526]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-17.31.04:419][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-17.31.04:444][526]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-17.31.04:444][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-17.31.42:106][162]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPG_ProjectContent/Blueprints/GI_RPG.GI_RPG_C"''
+[2020.08.20-17.31.42:107][162]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPG_ProjectContent/Blueprints/GI_RPG.GI_RPG_C"',MemberName="ShowOptionsMenu",MemberGuid=C87991EB4FD3B205E1E1708C733E9D8A)'
+[2020.08.20-17.31.52:645][553]BlueprintLog: New page: Compile BP_Graphics
+[2020.08.20-17.31.52:654][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "GameInstanceRef" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set GameInstanceRef
+[2020.08.20-17.31.52:655][553]LogBlueprint: Error: [Compiler BP_Graphics] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.08.20-17.31.52:655][553]LogBlueprint: Error: [Compiler BP_Graphics] In use pin  As GI RPG  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.08.20-17.31.52:655][553]LogBlueprint: Error: [Compiler BP_Graphics] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.08.20-17.31.52:655][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "FPSIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set FPSIndex
+[2020.08.20-17.31.52:655][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "FPSIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set FPSIndex
+[2020.08.20-17.31.52:655][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "ShdwIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set ShdwIndex
+[2020.08.20-17.31.52:655][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "ShdwIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set ShdwIndex
+[2020.08.20-17.31.52:655][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "AAIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set AAIndex
+[2020.08.20-17.31.52:655][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "AAIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set AAIndex
+[2020.08.20-17.31.52:656][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "PPIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set PPIndex
+[2020.08.20-17.31.52:656][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "PPIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set PPIndex
+[2020.08.20-17.31.52:656][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "FPSIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get FPSIndex
+[2020.08.20-17.31.52:656][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "FPSCmds" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get FPSCmds
+[2020.08.20-17.31.52:656][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "ShdwIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get ShdwIndex
+[2020.08.20-17.31.52:656][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "ShdwCmds" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get ShdwCmds
+[2020.08.20-17.31.52:657][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "AAIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get AAIndex
+[2020.08.20-17.31.52:657][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "AACmds" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get AACmds
+[2020.08.20-17.31.52:657][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "PPIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get PPIndex
+[2020.08.20-17.31.52:657][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "PPCmds" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get PPCmds
+[2020.08.20-17.31.52:657][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "GraphicalIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get GraphicalIndex
+[2020.08.20-17.31.52:657][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "GraphicalCmds" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get GraphicalCmds
+[2020.08.20-17.31.52:657][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "FPSIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get FPSIndex
+[2020.08.20-17.31.52:657][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "FPSSettings" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get FPSSettings
+[2020.08.20-17.31.52:657][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "FPSSettings" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get FPSSettings
+[2020.08.20-17.31.52:657][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "FPSIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get FPSIndex
+[2020.08.20-17.31.52:658][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "ShdwIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get ShdwIndex
+[2020.08.20-17.31.52:658][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "ShdwIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get ShdwIndex
+[2020.08.20-17.31.52:658][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "AAIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get AAIndex
+[2020.08.20-17.31.52:658][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "AAIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get AAIndex
+[2020.08.20-17.31.52:658][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "PPIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get PPIndex
+[2020.08.20-17.31.52:658][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "PPIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get PPIndex
+[2020.08.20-17.31.52:658][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "GraphicalIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set GraphicalIndex
+[2020.08.20-17.31.52:658][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "GraphicalIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get GraphicalIndex
+[2020.08.20-17.31.52:659][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "MainSettings" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get MainSettings
+[2020.08.20-17.31.52:659][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "MainSettings" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get MainSettings
+[2020.08.20-17.31.52:659][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "MainSettings" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get MainSettings
+[2020.08.20-17.31.52:660][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "MainSettings" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get MainSettings
+[2020.08.20-17.31.52:661][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "MainSettings" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get MainSettings
+[2020.08.20-17.31.52:661][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "MainSettings" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get MainSettings
+[2020.08.20-17.31.52:661][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "MainSettings" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get MainSettings
+[2020.08.20-17.31.52:662][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "GraphicalIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get GraphicalIndex
+[2020.08.20-17.31.52:662][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "GraphicalIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set GraphicalIndex
+[2020.08.20-17.31.52:662][553]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "MainSettings" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get MainSettings
+[2020.08.20-17.31.52:663][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Main Settings  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:663][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Graphical Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:663][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Main Settings  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:663][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Main Settings  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:663][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Main Settings  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:663][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Graphical Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:663][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Main Settings  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:663][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Main Settings  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:664][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Main Settings  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:664][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Main Settings  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:664][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Graphical Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:664][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Graphical Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:664][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  PPIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:664][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  PPIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:664][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  PPIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:664][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  PPIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:664][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  AAIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:664][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  AAIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:664][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  AAIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:665][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  AAIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:665][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Shdw Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:665][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Shdw Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:665][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Shdw Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:665][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Shdw Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:665][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  FPSIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:665][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  FPSSettings  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:665][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  FPSSettings  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:665][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  FPSIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:665][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  FPSIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:665][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Graphical Cmds  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:665][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Graphical Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:666][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  FPSIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:666][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  PPCmds  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:666][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  PPIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:666][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  AACmds  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:666][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  AAIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:666][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Shdw Cmds  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:666][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Shdw Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:666][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  FPSCmds  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:666][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  FPSIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:666][553]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Game Instance Ref  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.31.52:713][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.08.20-17.32.25:227][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Graphics" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset" SILENT=true
+[2020.08.20-17.32.25:303][430]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_Graphics1F1BE8714D46BB694D1C49AFB00057CC.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset'
+[2020.08.20-17.32.25:318][430]AssetCheck: New page: Asset Save: BP_Graphics
+[2020.08.20-17.32.25:318][430]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics
+[2020.08.20-17.32.50:625][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Graphics" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset" SILENT=true
+[2020.08.20-17.32.50:695][901]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_GraphicsAB3EAC744E04128FD01363BE4A5FD458.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset'
+[2020.08.20-17.32.50:710][901]AssetCheck: New page: Asset Save: BP_Graphics
+[2020.08.20-17.32.50:710][901]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics
+[2020.08.20-17.33.12:710][855]LogSlate: Took 0.007012 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.08.20-17.33.19:910][  4]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.08.20-17.33.24:920][181]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.08.20-17.33.26:984][281]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.08.20-17.33.26:987][281]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.08.20-17.33.34:059][578]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.08.20-17.33.35:645][662]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.08.20-17.33.35:659][662]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.08.20-17.34.24:842][886]BlueprintLog: New page: Compile BP_Graphics
+[2020.08.20-17.34.24:850][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "FPSIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set FPSIndex
+[2020.08.20-17.34.24:850][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "FPSIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set FPSIndex
+[2020.08.20-17.34.24:851][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "ShdwIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set ShdwIndex
+[2020.08.20-17.34.24:851][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "ShdwIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set ShdwIndex
+[2020.08.20-17.34.24:851][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "AAIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set AAIndex
+[2020.08.20-17.34.24:851][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "AAIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set AAIndex
+[2020.08.20-17.34.24:851][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "PPIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set PPIndex
+[2020.08.20-17.34.24:851][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "PPIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set PPIndex
+[2020.08.20-17.34.24:851][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "FPSIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get FPSIndex
+[2020.08.20-17.34.24:851][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "FPSCmds" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get FPSCmds
+[2020.08.20-17.34.24:852][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "ShdwIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get ShdwIndex
+[2020.08.20-17.34.24:852][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "ShdwCmds" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get ShdwCmds
+[2020.08.20-17.34.24:852][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "AAIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get AAIndex
+[2020.08.20-17.34.24:852][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "AACmds" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get AACmds
+[2020.08.20-17.34.24:852][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "PPIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get PPIndex
+[2020.08.20-17.34.24:852][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "PPCmds" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get PPCmds
+[2020.08.20-17.34.24:852][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "GraphicalIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get GraphicalIndex
+[2020.08.20-17.34.24:852][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "GraphicalCmds" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get GraphicalCmds
+[2020.08.20-17.34.24:852][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "FPSIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get FPSIndex
+[2020.08.20-17.34.24:853][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "FPSSettings" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get FPSSettings
+[2020.08.20-17.34.24:853][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "FPSSettings" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get FPSSettings
+[2020.08.20-17.34.24:853][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "FPSIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get FPSIndex
+[2020.08.20-17.34.24:853][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "ShdwIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get ShdwIndex
+[2020.08.20-17.34.24:853][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "ShdwIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get ShdwIndex
+[2020.08.20-17.34.24:853][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "AAIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get AAIndex
+[2020.08.20-17.34.24:853][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "AAIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get AAIndex
+[2020.08.20-17.34.24:853][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "PPIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get PPIndex
+[2020.08.20-17.34.24:853][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "PPIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get PPIndex
+[2020.08.20-17.34.24:854][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "GraphicalIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set GraphicalIndex
+[2020.08.20-17.34.24:856][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "GraphicalIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get GraphicalIndex
+[2020.08.20-17.34.24:856][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "GraphicalIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get GraphicalIndex
+[2020.08.20-17.34.24:856][886]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "GraphicalIndex" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Set GraphicalIndex
+[2020.08.20-17.34.24:858][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Graphical Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:858][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Graphical Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:858][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Graphical Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:858][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Graphical Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:858][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  PPIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:858][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  PPIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:858][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  PPIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:858][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  PPIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:859][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  AAIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:859][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  AAIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:859][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  AAIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:859][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  AAIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:859][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Shdw Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:859][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Shdw Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:859][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Shdw Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:859][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Shdw Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:859][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  FPSIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:859][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  FPSSettings  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:859][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  FPSSettings  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:859][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  FPSIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:860][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  FPSIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:860][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Graphical Cmds  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:860][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Graphical Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:860][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  FPSIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:860][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  PPCmds  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:860][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  PPIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:860][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  AACmds  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:860][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  AAIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:860][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Shdw Cmds  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:860][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Shdw Index  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:860][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  FPSCmds  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:860][886]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  FPSIndex  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.34.24:915][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.08.20-17.34.48:455][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Graphics" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset" SILENT=true
+[2020.08.20-17.34.48:527][553]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_GraphicsD08D9A594E41E43DBC0F7DBA8D5A41D7.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset'
+[2020.08.20-17.34.48:541][553]AssetCheck: New page: Asset Save: BP_Graphics
+[2020.08.20-17.34.48:541][553]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics
+[2020.08.20-17.35.41:843][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Graphics" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset" SILENT=true
+[2020.08.20-17.35.41:915][725]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_Graphics14BBD1DB4E03DEA5408CCC9B65C9BEB5.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset'
+[2020.08.20-17.35.41:928][725]AssetCheck: New page: Asset Save: BP_Graphics
+[2020.08.20-17.35.41:928][725]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics
+[2020.08.20-17.36.34:260][  1]BlueprintLog: New page: Compile BP_Graphics
+[2020.08.20-17.36.34:269][  1]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "FPSCmds" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get FPSCmds
+[2020.08.20-17.36.34:269][  1]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "ShdwCmds" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get ShdwCmds
+[2020.08.20-17.36.34:269][  1]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "AACmds" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get AACmds
+[2020.08.20-17.36.34:269][  1]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "PPCmds" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get PPCmds
+[2020.08.20-17.36.34:270][  1]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "GraphicalCmds" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get GraphicalCmds
+[2020.08.20-17.36.34:270][  1]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "FPSSettings" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get FPSSettings
+[2020.08.20-17.36.34:270][  1]LogBlueprint: Warning: [Compiler BP_Graphics] Could not find a variable named "FPSSettings" in 'BP_Graphics_C'.
+Make sure 'BP_Graphics_C' has been compiled for  Get FPSSettings
+[2020.08.20-17.36.34:274][  1]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  FPSSettings  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.36.34:274][  1]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  FPSSettings  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.36.34:275][  1]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Graphical Cmds  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.36.34:275][  1]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  PPCmds  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.36.34:275][  1]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  AACmds  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.36.34:275][  1]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  Shdw Cmds  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.36.34:275][  1]LogBlueprint: Error: [Compiler BP_Graphics] The property associated with  FPSCmds  could not be found in '/Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics_C'
+[2020.08.20-17.36.34:319][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.08.20-17.37.12:099][202]BlueprintLog: New page: Compile BP_Graphics
+[2020.08.20-17.37.12:163][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.08.20-17.37.12:219][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Graphics" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset" SILENT=true
+[2020.08.20-17.37.12:292][202]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_Graphics9A6C4AA74CBDF079093EFBAEF65089F0.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset'
+[2020.08.20-17.37.12:305][202]AssetCheck: New page: Asset Save: BP_Graphics
+[2020.08.20-17.37.12:305][202]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics
+[2020.08.20-17.37.36:451][190]BlueprintLog: New page: Compile BP_Graphics
+[2020.08.20-17.37.36:516][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.08.20-17.37.36:583][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Graphics" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset" SILENT=true
+[2020.08.20-17.37.36:660][190]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_Graphics760825954D66E1416FF10C8A8A0746D3.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset'
+[2020.08.20-17.37.36:673][190]AssetCheck: New page: Asset Save: BP_Graphics
+[2020.08.20-17.37.36:673][190]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics
+[2020.08.20-17.38.06:026][861]BlueprintLog: New page: Compile BP_Graphics
+[2020.08.20-17.38.06:089][861]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.08.20-17.38.06:157][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Graphics" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset" SILENT=true
+[2020.08.20-17.38.06:231][861]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_GraphicsD409AAEC48D7C7AA35FDBF9568BA90CD.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset'
+[2020.08.20-17.38.06:245][861]AssetCheck: New page: Asset Save: BP_Graphics
+[2020.08.20-17.38.06:245][861]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics
+[2020.08.20-17.38.24:945][826]BlueprintLog: New page: Compile BP_Graphics
+[2020.08.20-17.38.25:011][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.08.20-17.38.25:076][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Graphics" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset" SILENT=true
+[2020.08.20-17.38.25:147][826]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_GraphicsA7250AF647235BE9666C42B8EBEE6B54.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset'
+[2020.08.20-17.38.25:159][826]AssetCheck: New page: Asset Save: BP_Graphics
+[2020.08.20-17.38.25:159][826]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics
+[2020.08.20-17.38.50:948][ 44]BlueprintLog: New page: Compile BP_Graphics
+[2020.08.20-17.38.51:010][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.08.20-17.38.51:077][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Graphics" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset" SILENT=true
+[2020.08.20-17.38.51:149][ 44]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_Graphics457072C54F60E315CC37F0931146675C.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset'
+[2020.08.20-17.38.51:163][ 44]AssetCheck: New page: Asset Save: BP_Graphics
+[2020.08.20-17.38.51:163][ 44]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics
+[2020.08.20-17.39.16:659][107]BlueprintLog: New page: Compile BP_Graphics
+[2020.08.20-17.39.16:722][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.08.20-17.39.16:778][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Graphics" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset" SILENT=true
+[2020.08.20-17.39.16:850][107]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_Graphics6390ACF24A14A1638175F6A4F78D63B6.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset'
+[2020.08.20-17.39.16:864][107]AssetCheck: New page: Asset Save: BP_Graphics
+[2020.08.20-17.39.16:864][107]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics
+[2020.08.20-17.40.05:944][453]BlueprintLog: New page: Compile BP_Graphics
+[2020.08.20-17.40.06:009][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.08.20-17.40.06:073][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Graphics" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset" SILENT=true
+[2020.08.20-17.40.06:145][453]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_Graphics980831FB44729BFD871CD9BEF79F3AE8.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset'
+[2020.08.20-17.40.06:157][453]AssetCheck: New page: Asset Save: BP_Graphics
+[2020.08.20-17.40.06:157][453]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics
+[2020.08.20-17.40.24:263][224]BlueprintLog: New page: Compile BP_Graphics
+[2020.08.20-17.40.24:325][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.08.20-17.40.24:392][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Graphics" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset" SILENT=true
+[2020.08.20-17.40.24:463][224]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_Graphics4139374547DDA7C127A702894D44503D.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset'
+[2020.08.20-17.40.24:475][224]AssetCheck: New page: Asset Save: BP_Graphics
+[2020.08.20-17.40.24:475][224]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics
+[2020.08.20-17.40.49:441][275]BlueprintLog: New page: Compile BP_Graphics
+[2020.08.20-17.40.49:503][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.08.20-17.40.49:557][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Graphics" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset" SILENT=true
+[2020.08.20-17.40.49:628][275]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_GraphicsCDDA363D49A31FBC8991449557E1BEEC.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset'
+[2020.08.20-17.40.49:641][275]AssetCheck: New page: Asset Save: BP_Graphics
+[2020.08.20-17.40.49:641][275]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics
+[2020.08.20-17.40.50:142][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Graphics" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset" SILENT=true
+[2020.08.20-17.40.50:211][294]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_Graphics96F656FF4D36879CAD4E708CFB9E406F.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset'
+[2020.08.20-17.40.50:222][294]AssetCheck: New page: Asset Save: BP_Graphics
+[2020.08.20-17.40.50:222][294]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics
+[2020.08.20-17.41.45:851][406]BlueprintLog: New page: Compile BP_Graphics
+[2020.08.20-17.41.45:919][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.08.20-17.41.45:984][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Graphics" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset" SILENT=true
+[2020.08.20-17.41.46:056][406]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_Graphics8D89862B48675E4944548C9288B29089.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Graphics.uasset'
+[2020.08.20-17.41.46:069][406]AssetCheck: New page: Asset Save: BP_Graphics
+[2020.08.20-17.41.46:069][406]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Graphics.BP_Graphics
+[2020.08.20-17.41.54:002][872]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-17.41.54:002][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-17.41.54:035][872]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-17.41.54:036][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-17.42.13:737][349]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPG_ProjectContent/Blueprints/GI_RPG.GI_RPG_C"''
+[2020.08.20-17.42.13:739][349]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPG_ProjectContent/Blueprints/GI_RPG.GI_RPG_C"',MemberName="ShowOptionsMenu",MemberGuid=C87991EB4FD3B205E1E1708C733E9D8A)'
+[2020.08.20-17.42.46:348][238]BlueprintLog: New page: Compile BP_KeyBindings
+[2020.08.20-17.42.46:393][238]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.08.20-17.42.46:435][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_KeyBindings" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_KeyBindings.uasset" SILENT=true
+[2020.08.20-17.42.46:474][238]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_KeyBindings775AF695477196BB49E32E9FBB54B4EA.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_KeyBindings.uasset'
+[2020.08.20-17.42.46:491][238]AssetCheck: New page: Asset Save: BP_KeyBindings
+[2020.08.20-17.42.46:491][238]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_KeyBindings.BP_KeyBindings
+[2020.08.20-17.42.47:641][305]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-17.42.47:641][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-17.42.47:667][305]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-17.42.47:667][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-17.43.02:415][977]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_KeyBindings.BP_KeyBindings
+[2020.08.20-17.43.18:595][895]BlueprintLog: New page: Compile BP_Volume
+[2020.08.20-17.43.18:638][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.08.20-17.43.18:681][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RPG_V1_Content/UI/Settings/BP_Volume" FILE="../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Volume.uasset" SILENT=true
+[2020.08.20-17.43.18:719][895]LogSavePackage: Moving '../../../../Unreal Projects/RPG_V1/Saved/BP_VolumeD9249A8B4EC7BC3F093704B54F66E844.tmp' to '../../../../Unreal Projects/RPG_V1/Content/RPG_V1_Content/UI/Settings/BP_Volume.uasset'
+[2020.08.20-17.43.18:733][895]AssetCheck: New page: Asset Save: BP_Volume
+[2020.08.20-17.43.18:733][895]LogContentValidation: Display: Validating WidgetBlueprint /Game/RPG_V1_Content/UI/Settings/BP_Volume.BP_Volume
+[2020.08.20-17.43.19:470][938]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-17.43.19:470][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-17.43.19:497][938]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-17.43.19:497][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-17.43.19:969][962]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-17.43.19:969][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-17.43.19:972][962]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-17.43.19:973][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-17.44.07:500][894]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPG_ProjectContent/Blueprints/GI_RPG.GI_RPG_C"''
+[2020.08.20-17.44.07:503][894]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_StructOperation:StructType: unresolved reference to 'UserDefinedStruct'"/Game/RPG_ProjectContent/Blueprints/PlayerInfo.PlayerInfo"''
+[2020.08.20-17.44.07:506][894]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPG_ProjectContent/Blueprints/GI_RPG.GI_RPG_C"',MemberName="ShowMainMenu",MemberGuid=E4A205B34DBF69806A41578A60E456C9)'
+[2020.08.20-17.44.07:506][894]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_StructOperation:StructType: unresolved reference to 'UserDefinedStruct'"/Game/RPG_ProjectContent/Blueprints/PlayerInfo.PlayerInfo"''
+[2020.08.20-17.44.07:513][894]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPG_ProjectContent/Blueprints/GI_RPG.GI_RPG_C"',MemberName="SaveGame",MemberGuid=B30322084C33E9DACC5AC7B7EA551063)'
+[2020.08.20-17.44.07:515][894]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPG_ProjectContent/Blueprints/GI_RPG.GI_RPG_C"',MemberName="ShowOptionsMenu",MemberGuid=C87991EB4FD3B205E1E1708C733E9D8A)'
+[2020.08.20-17.44.07:532][894]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.08.20-17.44.07:532][894]LogWindows: Windows GetLastError: The operation completed successfully. (0)
